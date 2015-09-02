@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>REICHHOLD</ClientName>
+    <CMCWarehouse>CT</CMCWarehouse>
+    <OrderDate>2015-08-25 00:00:00.0</OrderDate>
+    <ClientOrderID>17889</ClientOrderID>
+    <CompanyName>Strata Paint</CompanyName>
+    <FirstName>Alessandro</FirstName>
+    <LastName>Longo</LastName>
+    <Email>al_strata@bellnet.ca</Email>
+    <Phone>450-662-0221</Phone>
+    <Street>1027 AUTOROUTE 440 OUEST</Street>
+    <Street2></Street2>
+    <Street3></Street3>
+    <City>Laval</City>
+    <State>QC</State>
+    <Zip>H7L 3W3</Zip>
+    <Country>Canada</Country>
+    <Carrier>STANDARD</Carrier>
+    <Comments>Notes: * please let us know if any of the samples requested are not readily available or made to order products
+
+Customs Info:
+Please ensure that the corresponding paperwork includes the true value of the product and to include "no commercial value" on the invoice. 
+If these values are incorrect, the samples will be seized by the CBSA for at least 90 business days.
+Provide the following information if listing L.V. Lomas as importer of record. 
+Customs Broker: AXXESS INTL. - Fax: 905- 672-5632  or Phone: 905-672-0270</Comments>
+    <Requestor>Alessandro Longo</Requestor>
+    <RequestorEmail>asproule@lvlomas.com</RequestorEmail>
+    <SalesRep>Marty Williams</SalesRep>
+    <SalesEmail>marty.williams@reichhold.com</SalesEmail>
+    <Distributor>LV Lomas</Distributor>
+    <ItemNumber>181263</ItemNumber>
+    <ItemName>UROTUF F47-M-60</ItemName>
+    <Quantity>1</Quantity>
+    <Size>QT</Size>
+    <ItemNote></ItemNote>
+  </order>
+  <order>
+    <ClientName>REICHHOLD</ClientName>
+    <CMCWarehouse>CT</CMCWarehouse>
+    <OrderDate>2015-08-25 00:00:00.0</OrderDate>
+    <ClientOrderID>17889</ClientOrderID>
+    <CompanyName>Strata Paint</CompanyName>
+    <FirstName>Alessandro</FirstName>
+    <LastName>Longo</LastName>
+    <Email>al_strata@bellnet.ca</Email>
+    <Phone>450-662-0221</Phone>
+    <Street>1027 AUTOROUTE 440 OUEST</Street>
+    <Street2></Street2>
+    <Street3></Street3>
+    <City>Laval</City>
+    <State>QC</State>
+    <Zip>H7L 3W3</Zip>
+    <Country>Canada</Country>
+    <Carrier>STANDARD</Carrier>
+    <Comments>Notes: * please let us know if any of the samples requested are not readily available or made to order products
+
+Customs Info:
+Please ensure that the corresponding paperwork includes the true value of the product and to include "no commercial value" on the invoice. 
+If these values are incorrect, the samples will be seized by the CBSA for at least 90 business days.
+Provide the following information if listing L.V. Lomas as importer of record. 
+Customs Broker: AXXESS INTL. - Fax: 905- 672-5632  or Phone: 905-672-0270</Comments>
+    <Requestor>Alessandro Longo</Requestor>
+    <RequestorEmail>asproule@lvlomas.com</RequestorEmail>
+    <SalesRep>Marty Williams</SalesRep>
+    <SalesEmail>marty.williams@reichhold.com</SalesEmail>
+    <Distributor>LV Lomas</Distributor>
+    <ItemNumber>186247</ItemNumber>
+    <ItemName>UROTUF F83-M-75</ItemName>
+    <Quantity>1</Quantity>
+    <Size>QT</Size>
+    <ItemNote></ItemNote>
+  </order>
+</Orders>

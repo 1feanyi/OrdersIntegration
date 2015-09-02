@@ -1,0 +1,51 @@
+<Orders>
+	<Customer_Order>
+		<CUSTID>REI000</CUSTID>
+		<PONUM>17887</PONUM>
+		<SODATE>2015-08-25 00:00:00.0</SODATE>
+		<REQDATE>2015-08-25 00:00:00.0</REQDATE>
+		<REQFILL></REQFILL>
+		<SHIPID>STANDARD</SHIPID>
+		<CONTACT>Michael Troutman</CONTACT>
+		<CONTACTEMAIL>michael.troutman@reichhold.com</CONTACTEMAIL>
+		<SPHONE>919-990-8123</SPHONE>
+		<SNAME>Michael Troutman</SNAME>
+		<SADD1>1035 Swabia Ct.</SADD1>
+		<SADD2></SADD2>
+		<SADD3></SADD3>
+		<SCITY>Durham</SCITY>
+		<SSTATE>NC</SSTATE>
+		<SZIP>27703</SZIP>
+		<SCountry>USA</SCountry>
+		<Distrib></Distrib>
+		<Salesrep>Scott Cooley</Salesrep>
+		<Salesrepemail>scott.cooley@reichhold.com</Salesrepemail>
+		<ORDNOTE>Email: michael.troutman@reichhold.com </ORDNOTE>
+		<SHIPNOTE>Bill Account # Reichhold; Notes: Needed for New Raw Material Screening as Control.</SHIPNOTE>	
+		<SHIPMARK1></SHIPMARK1>
+		<ORDERLINEITEM>
+			<LINENUM>1</LINENUM>
+			<QTY>1</QTY>
+			<ITEM>REI000_181200_QT</ITEM>
+			<SHIPPRODUCTID>181200</SHIPPRODUCTID>
+			<SHIPDESCRIPT>EPOTUF 38-692</SHIPDESCRIPT>
+			<NOTE></NOTE>
+		</ORDERLINEITEM>
+		<ORDERLINEITEM>
+			<LINENUM>2</LINENUM>
+			<QTY>1</QTY>
+			<ITEM>REI000_139617_QT </ITEM>
+			<SHIPPRODUCTID>139617</SHIPPRODUCTID>
+			<SHIPDESCRIPT>EPOTUF 91-531</SHIPDESCRIPT>
+			<NOTE></NOTE>
+		</ORDERLINEITEM>
+		<ORDERLINEITEM>
+			<LINENUM>3</LINENUM>
+			<QTY>1</QTY>
+			<ITEM>REI000_181325_QT</ITEM>
+			<SHIPPRODUCTID>181325</SHIPPRODUCTID>
+			<SHIPDESCRIPT>EPOTUF 38-694</SHIPDESCRIPT>
+			<NOTE></NOTE>
+		</ORDERLINEITEM>
+	</Customer_Order>
+</Orders>

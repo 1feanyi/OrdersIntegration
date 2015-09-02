@@ -1,0 +1,43 @@
+<Orders>
+	<Customer_Order>
+		<CUSTID>REI000</CUSTID>
+		<PONUM>17890</PONUM>
+		<SODATE>2015-08-25 00:00:00.0</SODATE>
+		<REQDATE>2015-08-25 00:00:00.0</REQDATE>
+		<REQFILL></REQFILL>
+		<SHIPID>STANDARD</SHIPID>
+		<CONTACT>janis Anderson</CONTACT>
+		<CONTACTEMAIL>jdanerson@vanerbiltminerals.com</CONTACTEMAIL>
+		<SPHONE>203-295-2140</SPHONE>
+		<SNAME>RT Vanderbilt</SNAME>
+		<SADD1>33 Winfield Street</SADD1>
+		<SADD2></SADD2>
+		<SADD3></SADD3>
+		<SCITY>Norwalk</SCITY>
+		<SSTATE>CT</SSTATE>
+		<SZIP>06855</SZIP>
+		<SCountry>USA</SCountry>
+		<Distrib></Distrib>
+		<Salesrep>Scott Cooley</Salesrep>
+		<Salesrepemail>scott.cooley@reichhold.com</Salesrepemail>
+		<ORDNOTE>Email: jeff.danneman@reichhold.com </ORDNOTE>
+		<SHIPNOTE>Notes: Testing additives and pigments</SHIPNOTE>	
+		<SHIPMARK1></SHIPMARK1>
+		<ORDERLINEITEM>
+			<LINENUM>1</LINENUM>
+			<QTY>1</QTY>
+			<ITEM>REI000_196400_GAL</ITEM>
+			<SHIPPRODUCTID>196400</SHIPPRODUCTID>
+			<SHIPDESCRIPT>BECKOSOL AQ 206</SHIPDESCRIPT>
+			<NOTE></NOTE>
+		</ORDERLINEITEM>
+		<ORDERLINEITEM>
+			<LINENUM>2</LINENUM>
+			<QTY>1</QTY>
+			<ITEM>REI_195671_GAL</ITEM>
+			<SHIPPRODUCTID>195671</SHIPPRODUCTID>
+			<SHIPDESCRIPT>AROPLAZ AQ 210</SHIPDESCRIPT>
+			<NOTE></NOTE>
+		</ORDERLINEITEM>
+	</Customer_Order>
+</Orders>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>REICHHOLD</ClientName>
+    <CMCWarehouse>CT</CMCWarehouse>
+    <OrderDate>2015-08-25 00:00:00.0</OrderDate>
+    <ClientOrderID>17890</ClientOrderID>
+    <CompanyName>RT Vanderbilt</CompanyName>
+    <FirstName>janis</FirstName>
+    <LastName>Anderson</LastName>
+    <Email>jdanerson@vanerbiltminerals.com</Email>
+    <Phone>203-295-2140</Phone>
+    <Street>33 Winfield Street</Street>
+    <Street2></Street2>
+    <Street3></Street3>
+    <City>Norwalk</City>
+    <State>CT</State>
+    <Zip>06855</Zip>
+    <Country>USA</Country>
+    <Carrier>STANDARD</Carrier>
+    <Comments>Notes: Testing additives and pigments</Comments>
+    <Requestor>janis Anderson</Requestor>
+    <RequestorEmail>jeff.danneman@reichhold.com</RequestorEmail>
+    <SalesRep>Scott Cooley</SalesRep>
+    <SalesEmail>scott.cooley@reichhold.com</SalesEmail>
+    <Distributor></Distributor>
+    <ItemNumber>196400</ItemNumber>
+    <ItemName>BECKOSOL AQ 206</ItemName>
+    <Quantity>1</Quantity>
+    <Size>GAL</Size>
+    <ItemNote></ItemNote>
+  </order>
+  <order>
+    <ClientName>REICHHOLD</ClientName>
+    <CMCWarehouse>CT</CMCWarehouse>
+    <OrderDate>2015-08-25 00:00:00.0</OrderDate>
+    <ClientOrderID>17890</ClientOrderID>
+    <CompanyName>RT Vanderbilt</CompanyName>
+    <FirstName>janis</FirstName>
+    <LastName>Anderson</LastName>
+    <Email>jdanerson@vanerbiltminerals.com</Email>
+    <Phone>203-295-2140</Phone>
+    <Street>33 Winfield Street</Street>
+    <Street2></Street2>
+    <Street3></Street3>
+    <City>Norwalk</City>
+    <State>CT</State>
+    <Zip>06855</Zip>
+    <Country>USA</Country>
+    <Carrier>STANDARD</Carrier>
+    <Comments>Notes: Testing additives and pigments</Comments>
+    <Requestor>janis Anderson</Requestor>
+    <RequestorEmail>jeff.danneman@reichhold.com</RequestorEmail>
+    <SalesRep>Scott Cooley</SalesRep>
+    <SalesEmail>scott.cooley@reichhold.com</SalesEmail>
+    <Distributor></Distributor>
+    <ItemNumber>195671</ItemNumber>
+    <ItemName>AROPLAZ AQ 210</ItemName>
+    <Quantity>1</Quantity>
+    <Size>GAL</Size>
+    <ItemNote></ItemNote>
+  </order>
+</Orders>

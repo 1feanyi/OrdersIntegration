@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>REICHHOLD</ClientName>
+    <CMCWarehouse>CT</CMCWarehouse>
+    <OrderDate>2015-08-25 00:00:00.0</OrderDate>
+    <ClientOrderID>17888</ClientOrderID>
+    <CompanyName>Reichhold RTP</CompanyName>
+    <FirstName>Michael</FirstName>
+    <LastName>Troutman</LastName>
+    <Email>michael.troutman@reichhold.com</Email>
+    <Phone>919-990-8123</Phone>
+    <Street>1035 Swabia Ct.</Street>
+    <Street2></Street2>
+    <Street3></Street3>
+    <City>Durham</City>
+    <State>NC</State>
+    <Zip>27703</Zip>
+    <Country>USA</Country>
+    <Carrier>STANDARD</Carrier>
+    <Comments>Bill Account # Reichhold; Notes: Needed for Control in Raw Material qualifications.</Comments>
+    <Requestor>Michael Troutman</Requestor>
+    <RequestorEmail>michael.troutman@reichhold.com</RequestorEmail>
+    <SalesRep>Scott Cooley</SalesRep>
+    <SalesEmail>scott.cooley@reichhold.com</SalesEmail>
+    <Distributor></Distributor>
+    <ItemNumber>194214</ItemNumber>
+    <ItemName>EPOTUF 38-698</ItemName>
+    <Quantity>1</Quantity>
+    <Size>QT</Size>
+    <ItemNote></ItemNote>
+  </order>
+</Orders>

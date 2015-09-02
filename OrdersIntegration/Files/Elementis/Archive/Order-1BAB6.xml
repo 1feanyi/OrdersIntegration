@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMCSampleOrderSubmission>
+<order>
+<orderId>NASN-9ZLLXU</orderId>
+<companyName>Elementis Specialties</companyName>
+<firstName>Gabriela</firstName>
+<lastName>Ber</lastName>
+<jobTitle>Energy Scientist</jobTitle>
+<emailAddress>Gabriela.Ber@Elementis.com</emailAddress>
+<phone>609-443-2312</phone>
+<address1>469 Old Trenton Road</address1>
+<address2></address2>
+<city>East Windsor</city>
+<state>NJ</state>
+<zip>08512</zip>
+<country>US</country>
+<regionLocated>Americas</regionLocated>
+<shipExpedite></shipExpedite>
+<shipAcctNum></shipAcctNum>
+<carrier> </carrier>
+<market>Oil Field</market>
+<endUse>Testing</endUse>
+<comments></comments>
+<applicationTypes>New formulation development</applicationTypes>
+<descisionTimeframe>>less than 3 months</descisionTimeframe>
+<descisionRole>Decision maker</descisionRole>
+<descisionSupport>Project is too new to state at this time</descisionSupport>
+<requestor>Dominick Infusino</requestor>
+<requestorEMail>dominick.infusino@elementis.com</requestorEMail>
+<requestorPhone>609-443-2000</requestorPhone>
+<requestorComments></requestorComments>
+<salesRep>n/a</salesRep>
+<salesRepEMail>n/a</salesRepEMail>
+<products>
+<item>
+<itemNumber>10861</itemNumber>
+<itemName>THIXATROL MAX</itemName>
+<qty>1</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>10850</itemNumber>
+<itemName>THIXATROL PLUS</itemName>
+<qty>1</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>10856</itemNumber>
+<itemName>THIXCIN R</itemName>
+<qty>1</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber></itemNumber>
+<itemName></itemName>
+<qty></qty>
+<annualUsage></annualUsage>
+
+</item>
+<item>
+<itemNumber></itemNumber>
+<itemName></itemName>
+<qty></qty>
+<annualUsage></annualUsage>
+
+</item>
+<item>
+<itemNumber></itemNumber>
+<itemName></itemName>
+<qty></qty>
+<annualUsage></annualUsage>
+
+</item>
+<item>
+<itemNumber></itemNumber>
+<itemName></itemName>
+<qty></qty>
+<annualUsage></annualUsage>
+
+</item>
+<item>
+<itemNumber></itemNumber>
+<itemName></itemName>
+<qty></qty>
+<annualUsage></annualUsage>
+
+</item>
+<item>
+<itemNumber></itemNumber>
+<itemName></itemName>
+<qty></qty>
+<annualUsage></annualUsage>
+
+</item>
+<item>
+<itemNumber></itemNumber>
+<itemName></itemName>
+<qty></qty>
+<annualUsage></annualUsage>
+
+</item>
+
+</products>
+
+</order>
+
+</CMCSampleOrderSubmission>
+

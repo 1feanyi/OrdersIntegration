@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>REICHHOLD</ClientName>
+    <CMCWarehouse>CT</CMCWarehouse>
+    <OrderDate>2015-08-25 00:00:00.0</OrderDate>
+    <ClientOrderID>17891</ClientOrderID>
+    <CompanyName>Coatings for Industry</CompanyName>
+    <FirstName>Brian</FirstName>
+    <LastName>Klotz</LastName>
+    <Email>Bklotz@coatingsforindustry.com</Email>
+    <Phone>215-723-0910</Phone>
+    <Street>319 Township Line Road</Street>
+    <Street2></Street2>
+    <Street3></Street3>
+    <City>Souderton</City>
+    <State>PA</State>
+    <Zip>18964</Zip>
+    <Country>USA</Country>
+    <Carrier>STANDARD</Carrier>
+    <Comments>Notes: </Comments>
+    <Requestor>Brian Klotz</Requestor>
+    <RequestorEmail>Kslifko@ewkco.com</RequestorEmail>
+    <SalesRep>Ron Warren</SalesRep>
+    <SalesEmail>ron.warren@reichhold.com</SalesEmail>
+    <Distributor>EW Kaufmann</Distributor>
+    <ItemNumber>181192</ItemNumber>
+    <ItemName>EPOTUF 38-406</ItemName>
+    <Quantity>1</Quantity>
+    <Size>QT</Size>
+    <ItemNote></ItemNote>
+  </order>
+</Orders>

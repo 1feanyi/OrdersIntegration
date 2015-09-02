@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>REICHHOLD</ClientName>
+    <CMCWarehouse>CT</CMCWarehouse>
+    <OrderDate>2015-08-25 00:00:00.0</OrderDate>
+    <ClientOrderID>17895</ClientOrderID>
+    <CompanyName>Dayton Superior</CompanyName>
+    <FirstName>Tim</FirstName>
+    <LastName>Slominski</LastName>
+    <Email>timothyslominski@daytonsuperior.com</Email>
+    <Phone>816-231-7700</Phone>
+    <Street>3101 Gardner Ave.</Street>
+    <Street2></Street2>
+    <Street3></Street3>
+    <City>Kansas City</City>
+    <State>MO</State>
+    <Zip>64120</Zip>
+    <Country>USA</Country>
+    <Carrier>STANDARD</Carrier>
+    <Comments>Notes: </Comments>
+    <Requestor>Tim Slominski</Requestor>
+    <RequestorEmail>kathy_hamburg@brandttech.com</RequestorEmail>
+    <SalesRep>Laura Kovach</SalesRep>
+    <SalesEmail>laura.kovach@reichhold.com</SalesEmail>
+    <Distributor>Brandt Technologies</Distributor>
+    <ItemNumber>194639</ItemNumber>
+    <ItemName>BECKOSOL AQ 210</ItemName>
+    <Quantity>1</Quantity>
+    <Size>QT</Size>
+    <ItemNote></ItemNote>
+  </order>
+</Orders>

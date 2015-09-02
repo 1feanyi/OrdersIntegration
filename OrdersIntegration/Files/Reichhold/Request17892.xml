@@ -1,0 +1,35 @@
+<Orders>
+	<Customer_Order>
+		<CUSTID>REI000</CUSTID>
+		<PONUM>17892</PONUM>
+		<SODATE>2015-08-25 00:00:00.0</SODATE>
+		<REQDATE>2015-08-25 00:00:00.0</REQDATE>
+		<REQFILL></REQFILL>
+		<SHIPID>STANDARD</SHIPID>
+		<CONTACT>Hamdi Latiff</CONTACT>
+		<CONTACTEMAIL>hlatiff@flexabar.com</CONTACTEMAIL>
+		<SPHONE>732-901-6500</SPHONE>
+		<SNAME>Flexabar Corporation</SNAME>
+		<SADD1>1969 Rutgers Blvd.</SADD1>
+		<SADD2></SADD2>
+		<SADD3></SADD3>
+		<SCITY>Lakewood</SCITY>
+		<SSTATE>NJ</SSTATE>
+		<SZIP>08701</SZIP>
+		<SCountry>USA</SCountry>
+		<Distrib>EW Kaufmann</Distrib>
+		<Salesrep>Ron Warren</Salesrep>
+		<Salesrepemail>ron.warren@reichhold.com</Salesrepemail>
+		<ORDNOTE>Email: kslifko@ewkco.com </ORDNOTE>
+		<SHIPNOTE>Notes: ***PLEASE SEND SAMPLE OUT ASAP***</SHIPNOTE>	
+		<SHIPMARK1></SHIPMARK1>
+		<ORDERLINEITEM>
+			<LINENUM>1</LINENUM>
+			<QTY>1</QTY>
+			<ITEM>REI000_181067_QT</ITEM>
+			<SHIPPRODUCTID>181067</SHIPPRODUCTID>
+			<SHIPDESCRIPT>AMBERLAC 13-802</SHIPDESCRIPT>
+			<NOTE></NOTE>
+		</ORDERLINEITEM>
+	</Customer_Order>
+</Orders>

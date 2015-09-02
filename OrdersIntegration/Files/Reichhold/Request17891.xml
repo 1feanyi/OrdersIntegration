@@ -1,0 +1,35 @@
+<Orders>
+	<Customer_Order>
+		<CUSTID>REI000</CUSTID>
+		<PONUM>17891</PONUM>
+		<SODATE>2015-08-25 00:00:00.0</SODATE>
+		<REQDATE>2015-08-25 00:00:00.0</REQDATE>
+		<REQFILL></REQFILL>
+		<SHIPID>STANDARD</SHIPID>
+		<CONTACT>Brian Klotz</CONTACT>
+		<CONTACTEMAIL>Bklotz@coatingsforindustry.com</CONTACTEMAIL>
+		<SPHONE>215-723-0910</SPHONE>
+		<SNAME>Coatings for Industry</SNAME>
+		<SADD1>319 Township Line Road</SADD1>
+		<SADD2></SADD2>
+		<SADD3></SADD3>
+		<SCITY>Souderton</SCITY>
+		<SSTATE>PA</SSTATE>
+		<SZIP>18964</SZIP>
+		<SCountry>USA</SCountry>
+		<Distrib>EW Kaufmann</Distrib>
+		<Salesrep>Ron Warren</Salesrep>
+		<Salesrepemail>ron.warren@reichhold.com</Salesrepemail>
+		<ORDNOTE>Email: Kslifko@ewkco.com </ORDNOTE>
+		<SHIPNOTE>Notes: </SHIPNOTE>	
+		<SHIPMARK1></SHIPMARK1>
+		<ORDERLINEITEM>
+			<LINENUM>1</LINENUM>
+			<QTY>1</QTY>
+			<ITEM>REI000_181192_QT</ITEM>
+			<SHIPPRODUCTID>181192</SHIPPRODUCTID>
+			<SHIPDESCRIPT>EPOTUF 38-406</SHIPDESCRIPT>
+			<NOTE></NOTE>
+		</ORDERLINEITEM>
+	</Customer_Order>
+</Orders>

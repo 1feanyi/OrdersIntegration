@@ -1,0 +1,41 @@
+<Orders>
+	<Customer_Order>
+		<CUSTID>REI000</CUSTID>
+		<PONUM>17893</PONUM>
+		<SODATE>2015-08-25 00:00:00.0</SODATE>
+		<REQDATE>2015-08-25 00:00:00.0</REQDATE>
+		<REQFILL></REQFILL>
+		<SHIPID>STANDARD</SHIPID>
+		<CONTACT>Georges Khalil</CONTACT>
+		<CONTACTEMAIL>gkhalil@micca.ca</CONTACTEMAIL>
+		<SPHONE>450-686-1740</SPHONE>
+		<SNAME>Micca Paints</SNAME>
+		<SADD1>1740, ST-ELZER BLVD. WEST</SADD1>
+		<SADD2></SADD2>
+		<SADD3></SADD3>
+		<SCITY>CHOMEDEY (LAVAL)</SCITY>
+		<SSTATE>QC</SSTATE>
+		<SZIP>H7L 3N2</SZIP>
+		<SCountry>Canada</SCountry>
+		<Distrib>LV Lomas</Distrib>
+		<Salesrep>Marty Williams</Salesrep>
+		<Salesrepemail>marty.williams@reichhold.com</Salesrepemail>
+		<ORDNOTE>Email: asproule@lvlomas.com </ORDNOTE>
+		<SHIPNOTE>Notes: * please let us know if any of the samples requested are not readily available or made to order products
+
+Customs Info:
+Please ensure that the corresponding paperwork includes the true value of the product and to include "no commercial value" on the invoice. 
+If these values are incorrect, the samples will be seized by the CBSA for at least 90 business days.
+Provide the following information if listing L.V. Lomas as importer of record. 
+Customs Broker: AXXESS INTL. - Fax: 905- 672-5632  or Phone: 905-672-0270</SHIPNOTE>	
+		<SHIPMARK1></SHIPMARK1>
+		<ORDERLINEITEM>
+			<LINENUM>1</LINENUM>
+			<QTY>1</QTY>
+			<ITEM>REI000_186247_QT </ITEM>
+			<SHIPPRODUCTID>186247</SHIPPRODUCTID>
+			<SHIPDESCRIPT>UROTUF F83-M-75</SHIPDESCRIPT>
+			<NOTE></NOTE>
+		</ORDERLINEITEM>
+	</Customer_Order>
+</Orders>

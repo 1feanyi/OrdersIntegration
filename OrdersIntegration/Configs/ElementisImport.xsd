@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="orders">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="order">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="ClientOrderID" type="xs:string" />
+              <xs:element minOccurs="0" name="ClientName" type="xs:string" />
+			  <xs:element minOccurs="0" name="CMCWarehouse" type="xs:string" />
+			  <xs:element minOccurs="0" name="CompanyName" type="xs:string" />
+              <xs:element minOccurs="0" name="FirstName" type="xs:string" />
+              <xs:element minOccurs="0" name="LastName" type="xs:string" />
+              <xs:element minOccurs="0" name="JobTitle" type="xs:string" />
+              <xs:element minOccurs="0" name="Email" type="xs:string" />
+              <xs:element minOccurs="0" name="Phone" type="xs:string" />
+              <xs:element minOccurs="0" name="Street" type="xs:string" />
+              <xs:element minOccurs="0" name="Street2" type="xs:string"  />
+              <xs:element minOccurs="0" name="City" type="xs:string" />
+              <xs:element minOccurs="0" name="State" type="xs:string" />
+              <xs:element minOccurs="0" name="Zip" type="xs:string" />
+              <xs:element minOccurs="0" name="Country" type="xs:string" />
+              <xs:element minOccurs="0" name="RegionLocated" type="xs:string" />
+              <xs:element minOccurs="0" name="ShipExpedite" type="xs:string"  />
+              <xs:element minOccurs="0" name="ShipAcctNum" type="xs:string"  />
+              <xs:element minOccurs="0" name="Carrier" type="xs:string"  />
+              <xs:element minOccurs="0" name="Market" type="xs:string" />
+              <xs:element minOccurs="0" name="EndUse" type="xs:string" />
+              <xs:element minOccurs="0" name="Comments" type="xs:string" />
+              <xs:element minOccurs="0" name="ApplicationTypes" type="xs:string" />
+              <xs:element minOccurs="0" name="DecisionTimeFrame" type="xs:string" />
+              <xs:element minOccurs="0" name="DecisionRole" type="xs:string" />
+              <xs:element minOccurs="0" name="DecisionSupport" type="xs:string" />
+              <xs:element minOccurs="0" name="Requestor" type="xs:string" />
+              <xs:element minOccurs="0" name="RequestorEmail" type="xs:string" />
+              <xs:element minOccurs="0" name="RequestorPhone" type="xs:string" />
+              <xs:element minOccurs="0" name="RequestorComments" type="xs:string"  />
+              <xs:element minOccurs="0" name="SalesRep" type="xs:string" />
+              <xs:element minOccurs="0" name="SalesEmail" type="xs:string" />
+              <xs:element minOccurs="0" name="ItemNumber" type="xs:string" />
+              <xs:element minOccurs="0" name="ItemName" type="xs:string" />
+              <xs:element minOccurs="0" name="Quantity" type="xs:string" />
+              <xs:element minOccurs="0" name="AnnualUsage" type="xs:string" />
+              <xs:element minOccurs="0" name="ImportDate" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

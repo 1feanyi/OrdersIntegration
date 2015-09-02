@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMCSampleOrderSubmission>
+<order>
+<orderId>NASN-9ZKSWA</orderId>
+<companyName>Elementis Specialties</companyName>
+<firstName>Nathalie</firstName>
+<lastName>Todesco</lastName>
+<jobTitle>Senior Applications Chemist</jobTitle>
+<emailAddress>nathalie.todesco@elementis.com</emailAddress>
+<phone>6094432243</phone>
+<address1>469 Old Trenton road</address1>
+<address2></address2>
+<city>East Windsor</city>
+<state>NJ</state>
+<zip>08512</zip>
+<country>US</country>
+<regionLocated>Americas</regionLocated>
+<shipExpedite></shipExpedite>
+<shipAcctNum></shipAcctNum>
+<carrier></carrier>
+<market>Decorative Paints and Coatings</market>
+<endUse>Testing</endUse>
+<comments>lab samples</comments>
+<applicationTypes>Qualifying alternate raw material source for existing formulation</applicationTypes>
+<descisionTimeframe>1+ years</descisionTimeframe>
+<descisionRole>No Influence</descisionRole>
+<descisionSupport>Project is too new to state at this time</descisionSupport>
+<requestor>Marie Yeager</requestor>
+<requestorEMail>marie.yeager@elementis.com</requestorEMail>
+<requestorPhone>609-443-2000</requestorPhone>
+<requestorComments></requestorComments>
+<salesRep></salesRep>
+<salesRepEMail></salesRepEMail>
+<products>
+<item>
+<itemNumber>12113</itemNumber>
+<itemName>RHEOLATE 644</itemName>
+<qty>1</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>12077</itemNumber>
+<itemName>RHEOLATE 655</itemName>
+<qty>3</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>12081</itemNumber>
+<itemName>RHEOLATE 678</itemName>
+<qty>2</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>12659</itemNumber>
+<itemName>RHEOLATE CVS 7</itemName>
+<qty>3</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>12684</itemNumber>
+<itemName>RHEOLATE CVS 10</itemName>
+<qty>2</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>12824</itemNumber>
+<itemName>RHEOLATE HX 6008</itemName>
+<qty>3</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>12825</itemNumber>
+<itemName>RHEOLATE HX 6010</itemName>
+<qty>3</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>12823</itemNumber>
+<itemName>RHEOLATE HX 6050</itemName>
+<qty>3</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>12004</itemNumber>
+<itemName>RHEOLATE FX 1010</itemName>
+<qty>2</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+<item>
+<itemNumber>12006</itemNumber>
+<itemName>RHEOLATE FX 1100</itemName>
+<qty>2</qty>
+<annualUsage>less than 100 lbs.</annualUsage>
+
+</item>
+
+</products>
+
+</order>
+
+</CMCSampleOrderSubmission>
+

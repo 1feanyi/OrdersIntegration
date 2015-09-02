@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>REICHHOLD</ClientName>
+    <CMCWarehouse>CT</CMCWarehouse>
+    <OrderDate>2015-08-25 00:00:00.0</OrderDate>
+    <ClientOrderID>17894</ClientOrderID>
+    <CompanyName>LOGIS</CompanyName>
+    <FirstName>CARMEN</FirstName>
+    <LastName>VALDES</LastName>
+    <Email>CARMEN.VALDES@REICHHOLD.COM</Email>
+    <Phone>527121229541</Phone>
+    <Street>4117 TRADE CENTER BLVD ITC PARK</Street>
+    <Street2></Street2>
+    <Street3></Street3>
+    <City>LAREDO</City>
+    <State>TX</State>
+    <Zip>78045</Zip>
+    <Country>USA</Country>
+    <Carrier>STANDARD</Carrier>
+    <Comments>Notes: PLEASE SEND COMMERCIAL INVOICE AND C OF A TO ATTENTION KIMBERLY.SMITH@REICHHOLD.COM AND CARMEN.VALDES@REICHHOLD.COM
+Destination address: Reichhold
+Blvd. Arturo Montiel Rojas No.10006
+Parque Industrial Atlacomulco
+Atlacomulco, Estado de Mexico 
+MEX, 50458 
+Directo / Celular: +52 712.122.9541/ +52 712.101.502</Comments>
+    <Requestor>CARMEN VALDES</Requestor>
+    <RequestorEmail>kimberly.smith@reichhold.com</RequestorEmail>
+    <SalesRep>Tim Robbs</SalesRep>
+    <SalesEmail>tim.robbs@reichhold.com</SalesEmail>
+    <Distributor></Distributor>
+    <ItemNumber>181185</ItemNumber>
+    <ItemName>EPOTUF 37-618</ItemName>
+    <Quantity>5</Quantity>
+    <Size>QT</Size>
+    <ItemNote></ItemNote>
+  </order>
+</Orders>

@@ -1,0 +1,35 @@
+<Orders>
+	<Customer_Order>
+		<CUSTID>REI000</CUSTID>
+		<PONUM>17886</PONUM>
+		<SODATE>2015-08-24 00:00:00.0</SODATE>
+		<REQDATE>2015-08-24 00:00:00.0</REQDATE>
+		<REQFILL></REQFILL>
+		<SHIPID>STANDARD</SHIPID>
+		<CONTACT>Shi Yang</CONTACT>
+		<CONTACTEMAIL>shi.yang@reichhold.com</CONTACTEMAIL>
+		<SPHONE>919-990-8257</SPHONE>
+		<SNAME></SNAME>
+		<SADD1>1035 Swabia Ct.</SADD1>
+		<SADD2></SADD2>
+		<SADD3></SADD3>
+		<SCITY>Durham</SCITY>
+		<SSTATE>NC</SSTATE>
+		<SZIP>27703</SZIP>
+		<SCountry>USA</SCountry>
+		<Distrib></Distrib>
+		<Salesrep>Scott Cooley</Salesrep>
+		<Salesrepemail>scott.cooley@reichhold.com</Salesrepemail>
+		<ORDNOTE>Email: shi.yang@reichhold.com </ORDNOTE>
+		<SHIPNOTE>Notes: Need Urotuf F78-M-50 batch# 828814.</SHIPNOTE>	
+		<SHIPMARK1></SHIPMARK1>
+		<ORDERLINEITEM>
+			<LINENUM>1</LINENUM>
+			<QTY>1</QTY>
+			<ITEM>REI000_181266_QT</ITEM>
+			<SHIPPRODUCTID>181266</SHIPPRODUCTID>
+			<SHIPDESCRIPT>UROTUF F78-M-50</SHIPDESCRIPT>
+			<NOTE></NOTE>
+		</ORDERLINEITEM>
+	</Customer_Order>
+</Orders>

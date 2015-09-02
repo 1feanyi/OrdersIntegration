@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>REICHHOLD</ClientName>
+    <CMCWarehouse>CT</CMCWarehouse>
+    <OrderDate>2015-08-25 00:00:00.0</OrderDate>
+    <ClientOrderID>17892</ClientOrderID>
+    <CompanyName>Flexabar Corporation</CompanyName>
+    <FirstName>Hamdi</FirstName>
+    <LastName>Latiff</LastName>
+    <Email>hlatiff@flexabar.com</Email>
+    <Phone>732-901-6500</Phone>
+    <Street>1969 Rutgers Blvd.</Street>
+    <Street2></Street2>
+    <Street3></Street3>
+    <City>Lakewood</City>
+    <State>NJ</State>
+    <Zip>08701</Zip>
+    <Country>USA</Country>
+    <Carrier>STANDARD</Carrier>
+    <Comments>Notes: ***PLEASE SEND SAMPLE OUT ASAP***</Comments>
+    <Requestor>Hamdi Latiff</Requestor>
+    <RequestorEmail>kslifko@ewkco.com</RequestorEmail>
+    <SalesRep>Ron Warren</SalesRep>
+    <SalesEmail>ron.warren@reichhold.com</SalesEmail>
+    <Distributor>EW Kaufmann</Distributor>
+    <ItemNumber>181067</ItemNumber>
+    <ItemName>AMBERLAC 13-802</ItemName>
+    <Quantity>1</Quantity>
+    <Size>QT</Size>
+    <ItemNote></ItemNote>
+  </order>
+</Orders>
