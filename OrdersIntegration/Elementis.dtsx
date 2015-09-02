@@ -12,22 +12,11 @@
   DTS:MaxErrorCount="3"
   DTS:ObjectName="Elementis"
   DTS:PackageType="5"
-  DTS:VersionBuild="141"
-  DTS:VersionGUID="{7DE1776C-C156-4FE9-B75F-2EEF2238C55E}">
+  DTS:VersionBuild="145"
+  DTS:VersionGUID="{AA42C489-75B9-4DA1-9DE6-73A29F2025B4}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[Alerts Rackspace]"
-      DTS:CreationName="SMTP"
-      DTS:Description="Alerts Email Connection"
-      DTS:DTSID="{EBD49264-003C-4936-80FA-F4FD09E16FFF}"
-      DTS:ObjectName="Alerts Rackspace">
-      <DTS:ObjectData>
-        <SmtpConnectionManager
-          ConnectionString="SmtpServer=smtp.emailsrvr.com;UseWindowsAuthentication=False;EnableSsl=False;" />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Archive]"
       DTS:CreationName="FILE"
@@ -72,7 +61,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAC+tzVbQpqcSxBa7lFdJnNpAAAAAASAAACgAAAAEAAAAPJ+09G6wrJsLSzwahYeJOIYAAAA4962Jhs+WFwmiKqYVo+bQWlcQXU18+l6FAAAAN8ExcFR1SCvNH8HKkgFBez7upGq</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACwgq5llzyChRU+hzJkl8tFAAAAAASAAACgAAAAEAAAAFbl1k/BQ6fRv5Jy54idgZYYAAAA+nuAoc0LVy2qDNXCcZyNGypOAI2CtFsXFAAAAM1tqTHOVdMOEl0P3dOipq5YRTKu</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -107,7 +96,7 @@
           ConnectionString="SmtpServer=smtp.emailsrvr.com;UserName=alerts@chemicalmarketing.com;Port=25;EnableSsl=False;Timeout=10000">
           <Password
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABk4jwKF5Kkq9fuRTTPLQD6AAAAAASAAACgAAAAEAAAAJmUsZ2p7uTcSuQQZyf5C4MYAAAAb2qlPCUKiHJ57/CtEYCfyHSm1QYph9iVFAAAAJ5JCaLqco3AFJU1Yjf52w9XJKCA</Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACbEtMpPCuqUoJ6wuLnk5+QAAAAAASAAACgAAAAEAAAAEr1cSu4/sJFVZcMuFV9d30YAAAAjRwhTFyiEsteKbVDy/WncwsA9KCh51YtFAAAABbvJbz+B5wwMiKCjnp2dvAxoOYf</Password>
         </ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -142,17 +131,6 @@
         DTS:Name="ConnectionString">@[User::varFileName]</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[TransformXML]"
-      DTS:CreationName="FILE"
-      DTS:DTSID="{19A963F6-9CC9-4AED-B211-F369F4AF506C}"
-      DTS:ObjectName="TransformXML">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:FileUsageType="2"
-          DTS:ConnectionString="C:\ElemFlatXML_20150825_1648.xml" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -259,15 +237,15 @@
           SmtpConnection="SMTP Alerts"
           IsHtmlEmail="True"
           DefaultStyle="&#xA;&lt;style type=&quot;text/css&quot;&gt;&#xA;body,div,p,span,td,th,table {&#xA; font-family: Helvetica, Arial, sans-serif;&#xA; font-size: 10pt; &#xA;}&#xA;h1,h2,h3,h4,h5{&#xA;font-family: Helvetica, Arial, sans-serif;&#xA;}&#xA;&#xA;table { &#xA; border-collapse: &#xA; collapse; border-spacing: 0; &#xA;}&#xA;&#xA;tr.odd    {background-color: #cccccc}&#xA;tr.even   {background-color: #fafafa}&#xA;td, th { border: 1px solid #bbb;padding: 5 5 5 5} &#xA;th { background: #F3F3F3;  font-weight: bold;}&#xA;&lt;/style&gt;&#xA;&#xA;"
-          Subject="Elementis Job Finished on {{System::StartTime}}"
+          Subject="Elementis Job Completed"
           From="alerts@chemicalmarketing.com"
           To="itsupport@chemicalmarketing.com"
           Cc=""
           Bcc=""
-          Attachments=""
+          Attachments="C:\Users\Administrator.CMCADD1\Desktop\OrdersIntegration\Errors\ProblemRows.xlsx"
           EmailPriority="Low"
           MessageSourceType="Direct"
-          MessageDirectValue="&lt;p&gt;Congratulations!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Elementis XML ETL job is complete.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have a fun day!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;- Phoenix&lt;/b&gt;&lt;/p&gt;&#xA;"
+          MessageDirectValue="&lt;p&gt;Congratulations!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Job Started:&lt;/b&gt; at {{System::ContainerStartTime}} on {{{System::ContainerStartTime}}{System::MachineName}}&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Elementis XML ETL job is complete.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Please review attached report just in case you need to fix problem rows.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have a fun day!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;- Phoenix&lt;/b&gt;&lt;/p&gt;"
           MessageFileConnection=""
           MessageVariable=""
           LoggingMode="Normal" />
@@ -485,7 +463,7 @@
               Attachments=""
               EmailPriority="Low"
               MessageSourceType="Direct"
-              MessageDirectValue="&lt;h3&gt;Dammit! Don't Panic!&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Issue: Corrupt file during xml transformation.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;File Location: &quot;..\Elementis\Corrupt\..&quot; on DEV_SERV&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have fun. Keep Calm and Carry On...&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;- Phoenix&lt;/b&gt;&lt;/p&gt;&#xA;"
+              MessageDirectValue="&lt;h3&gt;Dammit! Don't Panic!&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Issue:&lt;/b&gt; Corrupt file during xml transformation.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Possible Cause:&lt;/b&gt;  A file that does not match the Elementis XML-XSL mapping found its way into the Transform Folder.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;File Location:&lt;/b&gt; &quot;..\Elementis\Corrupt\..&quot; on DEV_SERV&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have fun. Keep Calm and Carry On...&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;- Phoenix&lt;/b&gt;&lt;/p&gt;"
               MessageFileConnection=""
               MessageVariable=""
               LoggingMode="Normal" />

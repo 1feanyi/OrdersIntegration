@@ -2,18 +2,23 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>OrdersIntegration</Name>
-    <LastWriteTime>2015-09-01T19:05:56.6967729Z</LastWriteTime>
+    <LastWriteTime>2015-09-02T17:51:16.1337139Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Reichhold.dtsx</Name>
-      <LastWriteTime>2015-09-01T20:36:02.3255926Z</LastWriteTime>
+      <LastWriteTime>2015-09-02T17:33:52.7296334Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Elementis.dtsx</Name>
-      <LastWriteTime>2015-09-01T13:51:55.6325792Z</LastWriteTime>
+      <LastWriteTime>2015-09-02T17:42:35.5060778Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Lonza.dtsx</Name>
+      <LastWriteTime>2015-09-02T19:00:49.9051158Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

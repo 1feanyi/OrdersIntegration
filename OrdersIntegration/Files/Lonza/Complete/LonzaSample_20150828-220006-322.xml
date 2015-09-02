@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24492</ClientOrderID>
+    <CustOrderID>S-24492</CustOrderID>
+    <CompanyName>Azelis Deutschland Kosmetic GmbH</CompanyName>
+    <FirstName>Anja</FirstName>
+    <LastName>Lange</LastName>
+    <Email>anja.lange@azelis.de</Email>
+    <Phone>+49-2841-8803630</Phone>
+    <Street>Zum Siegblick 37 - 45</Street>
+    <Street2></Street2>
+    <City>Sankt Augustin</City>
+    <State></State>
+    <Zip>53757</Zip>
+    <Country>DE  </Country>
+    <EndUse>PC</EndUse>
+    <Comments>2 x 1 kg plus 10 x 250 ml</Comments>
+    <RequestorName>Kerstin Rautenberg</RequestorName>
+    <RequestorEmail>kerstin.rautenberg@lonza.com</RequestorEmail>
+    <RequestorPhone>+49 221 99 1 99 262</RequestorPhone>
+    <ItemID>SP023953</ItemID>
+    <ItemNumber>179796</ItemNumber>
+    <ItemName>LARACARE™ A200</ItemName>
+    <Quantity>10.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24493</ClientOrderID>
+    <CustOrderID>S-24493</CustOrderID>
+    <CompanyName>LONZA</CompanyName>
+    <FirstName>Nolene</FirstName>
+    <LastName>Maistry</LastName>
+    <Email>nolene.maistry@lonza.com</Email>
+    <Phone>011 393 9000</Phone>
+    <Street>9 Hytor Street, Chloorkop, Kempton Park</Street>
+    <Street2></Street2>
+    <City>Kempton Park</City>
+    <State></State>
+    <Zip>1619</Zip>
+    <Country>ZA  </Country>
+    <EndUse>PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Nolene Maistry</RequestorName>
+    <RequestorEmail>nolene.maistry@lonza.com</RequestorEmail>
+    <RequestorPhone>+27 11 393 9000</RequestorPhone>
+    <ItemID>SP023954</ItemID>
+    <ItemNumber>1008944</ItemNumber>
+    <ItemName>GLYDANT™ 2000</ItemName>
+    <Quantity>3.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24493</ClientOrderID>
+    <CustOrderID>S-24493</CustOrderID>
+    <CompanyName>LONZA</CompanyName>
+    <FirstName>Nolene</FirstName>
+    <LastName>Maistry</LastName>
+    <Email>nolene.maistry@lonza.com</Email>
+    <Phone>011 393 9000</Phone>
+    <Street>9 Hytor Street, Chloorkop, Kempton Park</Street>
+    <Street2></Street2>
+    <City>Kempton Park</City>
+    <State></State>
+    <Zip>1619</Zip>
+    <Country>ZA  </Country>
+    <EndUse>PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Nolene Maistry</RequestorName>
+    <RequestorEmail>nolene.maistry@lonza.com</RequestorEmail>
+    <RequestorPhone>+27 11 393 9000</RequestorPhone>
+    <ItemID>SP023955</ItemID>
+    <ItemNumber>194013</ItemNumber>
+    <ItemName>GLYDANT™ LTD</ItemName>
+    <Quantity>3.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24493</ClientOrderID>
+    <CustOrderID>S-24493</CustOrderID>
+    <CompanyName>LONZA</CompanyName>
+    <FirstName>Nolene</FirstName>
+    <LastName>Maistry</LastName>
+    <Email>nolene.maistry@lonza.com</Email>
+    <Phone>011 393 9000</Phone>
+    <Street>9 Hytor Street, Chloorkop, Kempton Park</Street>
+    <Street2></Street2>
+    <City>Kempton Park</City>
+    <State></State>
+    <Zip>1619</Zip>
+    <Country>ZA  </Country>
+    <EndUse>PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Nolene Maistry</RequestorName>
+    <RequestorEmail>nolene.maistry@lonza.com</RequestorEmail>
+    <RequestorPhone>+27 11 393 9000</RequestorPhone>
+    <ItemID>SP023956</ItemID>
+    <ItemNumber>179378</ItemNumber>
+    <ItemName>GLYDANT™ PLUS LIQUID</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24494</ClientOrderID>
+    <CustOrderID>S-24494</CustOrderID>
+    <CompanyName>Azelis Deutschland GmbH</CompanyName>
+    <FirstName>Andrea</FirstName>
+    <LastName>Vigener</LastName>
+    <Email>andrea.vigener@azelis.de</Email>
+    <Phone>0049 2241 5497-49</Phone>
+    <Street>Zum Siegblick 37 45</Street>
+    <Street2>PO-115738</Street2>
+    <City>Sankt Augustin</City>
+    <State></State>
+    <Zip>53757</Zip>
+    <Country>DE  </Country>
+    <EndUse>PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Kerstin Rautenberg</RequestorName>
+    <RequestorEmail>kerstin.rautenberg@lonza.com</RequestorEmail>
+    <RequestorPhone>+49 221 99 1 99 262</RequestorPhone>
+    <ItemID>SP023957</ItemID>
+    <ItemNumber>192056</ItemNumber>
+    <ItemName>GEOGARD™ ULTRA</ItemName>
+    <Quantity>5.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24494</ClientOrderID>
+    <CustOrderID>S-24494</CustOrderID>
+    <CompanyName>Azelis Deutschland GmbH</CompanyName>
+    <FirstName>Andrea</FirstName>
+    <LastName>Vigener</LastName>
+    <Email>andrea.vigener@azelis.de</Email>
+    <Phone>0049 2241 5497-49</Phone>
+    <Street>Zum Siegblick 37 45</Street>
+    <Street2>PO-115738</Street2>
+    <City>Sankt Augustin</City>
+    <State></State>
+    <Zip>53757</Zip>
+    <Country>DE  </Country>
+    <EndUse>PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Kerstin Rautenberg</RequestorName>
+    <RequestorEmail>kerstin.rautenberg@lonza.com</RequestorEmail>
+    <RequestorPhone>+49 221 99 1 99 262</RequestorPhone>
+    <ItemID>SP023958</ItemID>
+    <ItemNumber>1008944</ItemNumber>
+    <ItemName>GLYDANT™ 2000</ItemName>
+    <Quantity>5.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+</Orders>

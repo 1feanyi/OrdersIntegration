@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24583</ClientOrderID>
+    <CustOrderID>S-24583</CustOrderID>
+    <CompanyName>Omya International AG</CompanyName>
+    <FirstName>Simon</FirstName>
+    <LastName>Urwyler</LastName>
+    <Email>simon.urwyler@omya.com</Email>
+    <Phone>+41 62789-2857</Phone>
+    <Street>Baslerstr. 2</Street>
+    <Street2></Street2>
+    <City>Oftringen</City>
+    <State></State>
+    <Zip>4665 Oftringen</Zip>
+    <Country>DE  </Country>
+    <EndUse>MP</EndUse>
+    <Comments></Comments>
+    <RequestorName>Michaela Schulz</RequestorName>
+    <RequestorEmail>michaela.schulz@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024066</ItemID>
+    <ItemNumber>100821</ItemNumber>
+    <ItemName>Zinc Omadine 48% DISP FPS (Industrial Grade)</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>US</CMCWarehouse>
+    <ClientOrderID>S-24596</ClientOrderID>
+    <CustOrderID>S-24596</CustOrderID>
+    <CompanyName>ARCH INTERNATIONAL TRADING(SHANGHAI</CompanyName>
+    <FirstName>Mike</FirstName>
+    <LastName>Lu</LastName>
+    <Email>mike.lu@lonza.com</Email>
+    <Phone>+86 512 6258 2724</Phone>
+    <Street>No.9, Qing Qiu Street, Suzhou Industrial Park,</Street>
+    <Street2>Mike Lu</Street2>
+    <City>suzhou</City>
+    <State>JiangSu</State>
+    <Zip>215024</Zip>
+    <Country>CN  </Country>
+    <EndUse>Materials Protection</EndUse>
+    <Comments>CoA</Comments>
+    <RequestorName>Lily Yao</RequestorName>
+    <RequestorEmail>lily.yao@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024098</ItemID>
+    <ItemNumber>100621-SMP</ItemNumber>
+    <ItemName>OMACIDE IPBC-10PG</ItemName>
+    <Quantity>5.0</Quantity>
+    <Size>4OZ</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>US</CMCWarehouse>
+    <ClientOrderID>S-24596</ClientOrderID>
+    <CustOrderID>S-24596</CustOrderID>
+    <CompanyName>ARCH INTERNATIONAL TRADING(SHANGHAI</CompanyName>
+    <FirstName>Mike</FirstName>
+    <LastName>Lu</LastName>
+    <Email>mike.lu@lonza.com</Email>
+    <Phone>+86 512 6258 2724</Phone>
+    <Street>No.9, Qing Qiu Street, Suzhou Industrial Park,</Street>
+    <Street2>Mike Lu</Street2>
+    <City>suzhou</City>
+    <State>JiangSu</State>
+    <Zip>215024</Zip>
+    <Country>CN  </Country>
+    <EndUse>Materials Protection</EndUse>
+    <Comments>CoA</Comments>
+    <RequestorName>Lily Yao</RequestorName>
+    <RequestorEmail>lily.yao@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024099</ItemID>
+    <ItemNumber>100708-SMP</ItemNumber>
+    <ItemName>OMACIDE IPBC Aqueous Disp</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>4OZ</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24597</ClientOrderID>
+    <CustOrderID>S-24597</CustOrderID>
+    <CompanyName>BASF (UK)</CompanyName>
+    <FirstName>Michelle</FirstName>
+    <LastName>Wheeler</LastName>
+    <Email></Email>
+    <Phone></Phone>
+    <Street>BASF PLC</Street>
+    <Street2>Saint Micheals industrial estate</Street2>
+    <City>Widnes</City>
+    <State></State>
+    <Zip>WA8 8TJ</Zip>
+    <Country>GB  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Tamara Wanders-Stofkoper</RequestorName>
+    <RequestorEmail>tamara.stofkoper@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024100</ItemID>
+    <ItemNumber>75198</ItemNumber>
+    <ItemName>Proxel GXL</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24599</ClientOrderID>
+    <CustOrderID>S-24599</CustOrderID>
+    <CompanyName>Azelis Denmark A/S</CompanyName>
+    <FirstName>Christina</FirstName>
+    <LastName>Michaelsen</LastName>
+    <Email>christina.michaelsen@azelis.dk</Email>
+    <Phone>+45 45 26 33 96</Phone>
+    <Street>Lundtofegaardsvej 95</Street>
+    <Street2></Street2>
+    <City>Lyngby</City>
+    <State></State>
+    <Zip>2800 Kgs</Zip>
+    <Country>DK  </Country>
+    <EndUse>PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Tamara Wanders-Stofkoper</RequestorName>
+    <RequestorEmail>tamara.stofkoper@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024104</ItemID>
+    <ItemNumber>215372</ItemNumber>
+    <ItemName>LONZEST™ DC</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>US</CMCWarehouse>
+    <ClientOrderID>S-24594</ClientOrderID>
+    <CustOrderID>S-24594</CustOrderID>
+    <CompanyName>Brenntag SDN BHD</CompanyName>
+    <FirstName>Joanne</FirstName>
+    <LastName>Chow</LastName>
+    <Email>joanne.chow@brenntag-asia.com</Email>
+    <Phone>+603 5191 8811</Phone>
+    <Street>Lot PT 55, 64 &amp; 65 Jalan Hulu Tinggi 26/6</Street>
+    <Street2>Seksyen 26, 40400 Shah Alam</Street2>
+    <City>Selangor</City>
+    <State></State>
+    <Zip>40400</Zip>
+    <Country>MY  </Country>
+    <EndUse>Hygiene and PC</EndUse>
+    <Comments>“SAMPLE F.O.C. – NO COMMERCIAL VALUE, VALUE FOR CUSTOM DECLARATION”. If not the sample will incurred GST 6%.***</Comments>
+    <RequestorName>Lucy Lim</RequestorName>
+    <RequestorEmail>lucy.lim@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024097</ItemID>
+    <ItemNumber>1007042</ItemNumber>
+    <ItemName>FMB AO-8</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>8OZ</Size>
+  </order>
+</Orders>

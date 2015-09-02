@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24552</ClientOrderID>
+    <CustOrderID>S-24552</CustOrderID>
+    <CompanyName>Azelis Deutschland GmbH</CompanyName>
+    <FirstName>Marco</FirstName>
+    <LastName>Hofmeister</LastName>
+    <Email>marco.hofmeister@azelis.de</Email>
+    <Phone>+49 2841 8854336</Phone>
+    <Street>Zum Siegblick 37 45</Street>
+    <Street2>EK046854</Street2>
+    <City>Sankt Augustin</City>
+    <State></State>
+    <Zip>53757</Zip>
+    <Country>DE  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Kerstin Rautenberg</RequestorName>
+    <RequestorEmail>kerstin.rautenberg@lonza.com</RequestorEmail>
+    <RequestorPhone>+49 221 99 1 99 262</RequestorPhone>
+    <ItemID>SP024044</ItemID>
+    <ItemNumber>196247</ItemNumber>
+    <ItemName>BARDAC™ LF</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24552</ClientOrderID>
+    <CustOrderID>S-24552</CustOrderID>
+    <CompanyName>Azelis Deutschland GmbH</CompanyName>
+    <FirstName>Marco</FirstName>
+    <LastName>Hofmeister</LastName>
+    <Email>marco.hofmeister@azelis.de</Email>
+    <Phone>+49 2841 8854336</Phone>
+    <Street>Zum Siegblick 37 45</Street>
+    <Street2>EK046854</Street2>
+    <City>Sankt Augustin</City>
+    <State></State>
+    <Zip>53757</Zip>
+    <Country>DE  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Kerstin Rautenberg</RequestorName>
+    <RequestorEmail>kerstin.rautenberg@lonza.com</RequestorEmail>
+    <RequestorPhone>+49 221 99 1 99 262</RequestorPhone>
+    <ItemID>SP024045</ItemID>
+    <ItemNumber>190208</ItemNumber>
+    <ItemName>CARBOSHIELD™ 1000 E</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24552</ClientOrderID>
+    <CustOrderID>S-24552</CustOrderID>
+    <CompanyName>Azelis Deutschland GmbH</CompanyName>
+    <FirstName>Marco</FirstName>
+    <LastName>Hofmeister</LastName>
+    <Email>marco.hofmeister@azelis.de</Email>
+    <Phone>+49 2841 8854336</Phone>
+    <Street>Zum Siegblick 37 45</Street>
+    <Street2>EK046854</Street2>
+    <City>Sankt Augustin</City>
+    <State></State>
+    <Zip>53757</Zip>
+    <Country>DE  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Kerstin Rautenberg</RequestorName>
+    <RequestorEmail>kerstin.rautenberg@lonza.com</RequestorEmail>
+    <RequestorPhone>+49 221 99 1 99 262</RequestorPhone>
+    <ItemID>SP024046</ItemID>
+    <ItemNumber>172421</ItemNumber>
+    <ItemName>BARDAP™ 26</ItemName>
+    <Quantity>3.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24553</ClientOrderID>
+    <CustOrderID>S-24553</CustOrderID>
+    <CompanyName>PT. PETRAKEMINDO PRATAMA MANDIRI</CompanyName>
+    <FirstName>Fendi</FirstName>
+    <LastName>Lie. Fendijanto</LastName>
+    <Email></Email>
+    <Phone>+62 21 5528628</Phone>
+    <Street>Ruko Taman Poris Blok A/34 RT.01/08</Street>
+    <Street2>Kel.Cipondoh Indah Kec. Cipondoh</Street2>
+    <City>Kota Tangerang</City>
+    <State></State>
+    <Zip>15148</Zip>
+    <Country>ID  </Country>
+    <EndUse>HY</EndUse>
+    <Comments>Please include MSDS , COA along with the shipment.</Comments>
+    <RequestorName>Keri Kwan</RequestorName>
+    <RequestorEmail>keri.kwan@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024047</ItemID>
+    <ItemNumber>75223</ItemNumber>
+    <ItemName>Proxel MB</ItemName>
+    <Quantity>4.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24554</ClientOrderID>
+    <CustOrderID>S-24554</CustOrderID>
+    <CompanyName>Fosfitalia Spa</CompanyName>
+    <FirstName>Dr. Francesca</FirstName>
+    <LastName>Pierelli</LastName>
+    <Email>antonia.naldoni@medizoo.it</Email>
+    <Phone></Phone>
+    <Street>via Baiona 135</Street>
+    <Street2></Street2>
+    <City>Ravenna</City>
+    <State></State>
+    <Zip>48123</Zip>
+    <Country>IT  </Country>
+    <EndUse>HY</EndUse>
+    <Comments>please send an invoice over 300,00 Euro to:
+Fosfitalia SpA
+via Baiona,  135
+48123 Ravenna 
+VAT IT01781890239</Comments>
+    <RequestorName>Kerstin Rautenberg</RequestorName>
+    <RequestorEmail>kerstin.rautenberg@lonza.com</RequestorEmail>
+    <RequestorPhone>+49 221 99 1 99 262</RequestorPhone>
+    <ItemID>SP024048</ItemID>
+    <ItemNumber>05150</ItemNumber>
+    <ItemName>VANTOCIL IB</ItemName>
+    <Quantity>10.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24554</ClientOrderID>
+    <CustOrderID>S-24554</CustOrderID>
+    <CompanyName>Fosfitalia Spa</CompanyName>
+    <FirstName>Dr. Francesca</FirstName>
+    <LastName>Pierelli</LastName>
+    <Email>antonia.naldoni@medizoo.it</Email>
+    <Phone></Phone>
+    <Street>via Baiona 135</Street>
+    <Street2></Street2>
+    <City>Ravenna</City>
+    <State></State>
+    <Zip>48123</Zip>
+    <Country>IT  </Country>
+    <EndUse>HY</EndUse>
+    <Comments>please send an invoice over 300,00 Euro to:
+Fosfitalia SpA
+via Baiona,  135
+48123 Ravenna 
+VAT IT01781890239</Comments>
+    <RequestorName>Kerstin Rautenberg</RequestorName>
+    <RequestorEmail>kerstin.rautenberg@lonza.com</RequestorEmail>
+    <RequestorPhone>+49 221 99 1 99 262</RequestorPhone>
+    <ItemID>SP024049</ItemID>
+    <ItemNumber>172760</ItemNumber>
+    <ItemName>LONZABAC™ 12.30</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>1.0L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24554</ClientOrderID>
+    <CustOrderID>S-24554</CustOrderID>
+    <CompanyName>Fosfitalia Spa</CompanyName>
+    <FirstName>Dr. Francesca</FirstName>
+    <LastName>Pierelli</LastName>
+    <Email>antonia.naldoni@medizoo.it</Email>
+    <Phone></Phone>
+    <Street>via Baiona 135</Street>
+    <Street2></Street2>
+    <City>Ravenna</City>
+    <State></State>
+    <Zip>48123</Zip>
+    <Country>IT  </Country>
+    <EndUse>HY</EndUse>
+    <Comments>please send an invoice over 300,00 Euro to:
+Fosfitalia SpA
+via Baiona,  135
+48123 Ravenna 
+VAT IT01781890239</Comments>
+    <RequestorName>Kerstin Rautenberg</RequestorName>
+    <RequestorEmail>kerstin.rautenberg@lonza.com</RequestorEmail>
+    <RequestorPhone>+49 221 99 1 99 262</RequestorPhone>
+    <ItemID>SP024050</ItemID>
+    <ItemNumber>194596</ItemNumber>
+    <ItemName>BARDAC™ 22</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>1.0L</Size>
+  </order>
+</Orders>

@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24519</ClientOrderID>
+    <CustOrderID>S-24519</CustOrderID>
+    <CompanyName>minitube</CompanyName>
+    <FirstName>Oliver</FirstName>
+    <LastName>Schropp</LastName>
+    <Email>o.schropp@minitube.de</Email>
+    <Phone>+49 8709 9229 445</Phone>
+    <Street>Hauptstr. 41</Street>
+    <Street2></Street2>
+    <City>84184</City>
+    <State></State>
+    <Zip>Tiefenbach</Zip>
+    <Country>DE  </Country>
+    <EndUse>Nutrition</EndUse>
+    <Comments></Comments>
+    <RequestorName>Viviane Demont</RequestorName>
+    <RequestorEmail>viviane.demont@lonza.com</RequestorEmail>
+    <RequestorPhone>+41613168831</RequestorPhone>
+    <ItemID>SP023992</ItemID>
+    <ItemNumber>198335</ItemNumber>
+    <ItemName>Carnipure™ tartrate</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>1PP</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24519</ClientOrderID>
+    <CustOrderID>S-24519</CustOrderID>
+    <CompanyName>minitube</CompanyName>
+    <FirstName>Oliver</FirstName>
+    <LastName>Schropp</LastName>
+    <Email>o.schropp@minitube.de</Email>
+    <Phone>+49 8709 9229 445</Phone>
+    <Street>Hauptstr. 41</Street>
+    <Street2></Street2>
+    <City>84184</City>
+    <State></State>
+    <Zip>Tiefenbach</Zip>
+    <Country>DE  </Country>
+    <EndUse>Nutrition</EndUse>
+    <Comments></Comments>
+    <RequestorName>Viviane Demont</RequestorName>
+    <RequestorEmail>viviane.demont@lonza.com</RequestorEmail>
+    <RequestorPhone>+41613168831</RequestorPhone>
+    <ItemID>SP023993</ItemID>
+    <ItemNumber>198331</ItemNumber>
+    <ItemName>Carnipure™ crystalline</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>1PP</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24520</ClientOrderID>
+    <CustOrderID>S-24520</CustOrderID>
+    <CompanyName>Intercosmetica Neuchâtel SA</CompanyName>
+    <FirstName>Roxane</FirstName>
+    <LastName>Ménard</LastName>
+    <Email>roxane.menard@intercosmetica.ch</Email>
+    <Phone>+41-32-7225000</Phone>
+    <Street>Route des Gouttes d'Or 30</Street>
+    <Street2></Street2>
+    <City>Neuchâtel</City>
+    <State></State>
+    <Zip>2008</Zip>
+    <Country>CH  </Country>
+    <EndUse>PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Tobias Kleinhenz</RequestorName>
+    <RequestorEmail>tobias.kleinhenz@lonza.com</RequestorEmail>
+    <RequestorPhone>+49 221 99199 253</RequestorPhone>
+    <ItemID>SP023994</ItemID>
+    <ItemNumber>193880</ItemNumber>
+    <ItemName>GEOGARD™ 221</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24522</ClientOrderID>
+    <CustOrderID>S-24522</CustOrderID>
+    <CompanyName>Tuermerleim GmbH</CompanyName>
+    <FirstName>Joachim</FirstName>
+    <LastName>Hoécker</LastName>
+    <Email>joachim.hoecker@tuermerleim.de</Email>
+    <Phone>+49-621-561070</Phone>
+    <Street>Arnulfstrasse 43</Street>
+    <Street2></Street2>
+    <City>Ludwigshafen</City>
+    <State></State>
+    <Zip>67061</Zip>
+    <Country>DE  </Country>
+    <EndUse>MP</EndUse>
+    <Comments></Comments>
+    <RequestorName>Michael Wieters</RequestorName>
+    <RequestorEmail>michael.wieters@lonza.com</RequestorEmail>
+    <RequestorPhone>+494102459394</RequestorPhone>
+    <ItemID>SP023996</ItemID>
+    <ItemNumber>75228-3628Z</ItemNumber>
+    <ItemName>Proxel LS Preservative</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024001</ItemID>
+    <ItemNumber>213172</ItemNumber>
+    <ItemName>Barquat™ BAC-80</ItemName>
+    <Quantity>8.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024002</ItemID>
+    <ItemNumber>204712</ItemNumber>
+    <ItemName>Barquat™ BAC 50</ItemName>
+    <Quantity>4.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024003</ItemID>
+    <ItemNumber>190208</ItemNumber>
+    <ItemName>CARBOSHIELD™ 1000 E</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024004</ItemID>
+    <ItemNumber>179375</ItemNumber>
+    <ItemName>DANTOGARD™ PLUS LIQUID</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024005</ItemID>
+    <ItemNumber>172753</ItemNumber>
+    <ItemName>LONZABAC™ 12.100</ItemName>
+    <Quantity>4.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024000</ItemID>
+    <ItemNumber>203173</ItemNumber>
+    <ItemName>BARLOX™ 12</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP023999</ItemID>
+    <ItemNumber>172421</ItemNumber>
+    <ItemName>BARDAP™ 26</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP023998</ItemID>
+    <ItemNumber>202660</ItemNumber>
+    <ItemName>BARDAC™ 2280 I</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP023997</ItemID>
+    <ItemNumber>188143</ItemNumber>
+    <ItemName>Bardac™ 22</ItemName>
+    <Quantity>4.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024006</ItemID>
+    <ItemNumber>172760</ItemNumber>
+    <ItemName>LONZABAC™ 12.30</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024012</ItemID>
+    <ItemNumber>75223</ItemNumber>
+    <ItemName>Proxel MB</ItemName>
+    <Quantity>4.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024011</ItemID>
+    <ItemNumber>75198</ItemNumber>
+    <ItemName>Proxel GXL</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024010</ItemID>
+    <ItemNumber>75265</ItemNumber>
+    <ItemName>Proxel BD20</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024009</ItemID>
+    <ItemNumber>75217</ItemNumber>
+    <ItemName>Proxel AQ</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024008</ItemID>
+    <ItemNumber>75228-3628Z</ItemNumber>
+    <ItemName>Proxel LS Preservative</ItemName>
+    <Quantity>6.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24523</ClientOrderID>
+    <CustOrderID>S-24523</CustOrderID>
+    <CompanyName>Cial Quimica Masso S.A.</CompanyName>
+    <FirstName>Jaume</FirstName>
+    <LastName>Pamias</LastName>
+    <Email>jpamias@cqm.es</Email>
+    <Phone>93-4952542</Phone>
+    <Street>C/Viladomat, 321, 5º</Street>
+    <Street2></Street2>
+    <City>Barcelona</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Carmen Espresati</RequestorName>
+    <RequestorEmail>carmen.espresati@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024007</ItemID>
+    <ItemNumber>174591</ItemNumber>
+    <ItemName>SPECTRADYNE™ .</ItemName>
+    <Quantity>3.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>US</CMCWarehouse>
+    <ClientOrderID>S-24525</ClientOrderID>
+    <CustOrderID>S-24525</CustOrderID>
+    <CompanyName>BODE CHEMIE GMBH &amp; CO.KG</CompanyName>
+    <FirstName>Petra</FirstName>
+    <LastName>Kelting</LastName>
+    <Email>petra.kelting@bode-chemie.den</Email>
+    <Phone>40 54006</Phone>
+    <Street>Melanchthonstr.27</Street>
+    <Street2>Lab. E II</Street2>
+    <City>Hamburg</City>
+    <State></State>
+    <Zip>22525</Zip>
+    <Country>DE  </Country>
+    <EndUse>Hygiene and PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Gisbert Mehring</RequestorName>
+    <RequestorEmail>gisbert.mehring@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024014</ItemID>
+    <ItemNumber>1006805</ItemNumber>
+    <ItemName>BARDAC 2280</ItemName>
+    <Quantity>4.0</Quantity>
+    <Size>8OZ</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24529</ClientOrderID>
+    <CustOrderID>S-24529</CustOrderID>
+    <CompanyName>CIAL QUIMICA MASSO</CompanyName>
+    <FirstName>Ester</FirstName>
+    <LastName>Palau</LastName>
+    <Email></Email>
+    <Phone>33 4 72 20 57 79</Phone>
+    <Street>Viladomat, 321</Street>
+    <Street2></Street2>
+    <City>BARCELONA</City>
+    <State></State>
+    <Zip>08029</Zip>
+    <Country>ES  </Country>
+    <EndUse>PC</EndUse>
+    <Comments>Please send together S-24523</Comments>
+    <RequestorName>Mireia Mairal</RequestorName>
+    <RequestorEmail>mireia.mairal@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024023</ItemID>
+    <ItemNumber>172783</ItemNumber>
+    <ItemName>LONZABAC™ PC</ItemName>
+    <Quantity>2.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24530</ClientOrderID>
+    <CustOrderID>S-24530</CustOrderID>
+    <CompanyName>Chem Co</CompanyName>
+    <FirstName>Vasic</FirstName>
+    <LastName>Perica</LastName>
+    <Email>chemcovinahem@gmail.com</Email>
+    <Phone>+ 381 63 470 165</Phone>
+    <Street>27 marta 19/3</Street>
+    <Street2></Street2>
+    <City>Kragujevac</City>
+    <State></State>
+    <Zip>34000</Zip>
+    <Country>RS  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Beata Oledzka</RequestorName>
+    <RequestorEmail>beata.oledzka@lonza.com</RequestorEmail>
+    <RequestorPhone>00 48 22 639 35 16</RequestorPhone>
+    <ItemID>SP024027</ItemID>
+    <ItemNumber>172467</ItemNumber>
+    <ItemName>BARQUAT™ CB-50</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24530</ClientOrderID>
+    <CustOrderID>S-24530</CustOrderID>
+    <CompanyName>Chem Co</CompanyName>
+    <FirstName>Vasic</FirstName>
+    <LastName>Perica</LastName>
+    <Email>chemcovinahem@gmail.com</Email>
+    <Phone>+ 381 63 470 165</Phone>
+    <Street>27 marta 19/3</Street>
+    <Street2></Street2>
+    <City>Kragujevac</City>
+    <State></State>
+    <Zip>34000</Zip>
+    <Country>RS  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Beata Oledzka</RequestorName>
+    <RequestorEmail>beata.oledzka@lonza.com</RequestorEmail>
+    <RequestorPhone>00 48 22 639 35 16</RequestorPhone>
+    <ItemID>SP024026</ItemID>
+    <ItemNumber>202093</ItemNumber>
+    <ItemName>Bardac™ 2270</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24530</ClientOrderID>
+    <CustOrderID>S-24530</CustOrderID>
+    <CompanyName>Chem Co</CompanyName>
+    <FirstName>Vasic</FirstName>
+    <LastName>Perica</LastName>
+    <Email>chemcovinahem@gmail.com</Email>
+    <Phone>+ 381 63 470 165</Phone>
+    <Street>27 marta 19/3</Street>
+    <Street2></Street2>
+    <City>Kragujevac</City>
+    <State></State>
+    <Zip>34000</Zip>
+    <Country>RS  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Beata Oledzka</RequestorName>
+    <RequestorEmail>beata.oledzka@lonza.com</RequestorEmail>
+    <RequestorPhone>00 48 22 639 35 16</RequestorPhone>
+    <ItemID>SP024025</ItemID>
+    <ItemNumber>204712</ItemNumber>
+    <ItemName>Barquat™ BAC 50</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24530</ClientOrderID>
+    <CustOrderID>S-24530</CustOrderID>
+    <CompanyName>Chem Co</CompanyName>
+    <FirstName>Vasic</FirstName>
+    <LastName>Perica</LastName>
+    <Email>chemcovinahem@gmail.com</Email>
+    <Phone>+ 381 63 470 165</Phone>
+    <Street>27 marta 19/3</Street>
+    <Street2></Street2>
+    <City>Kragujevac</City>
+    <State></State>
+    <Zip>34000</Zip>
+    <Country>RS  </Country>
+    <EndUse>HY</EndUse>
+    <Comments></Comments>
+    <RequestorName>Beata Oledzka</RequestorName>
+    <RequestorEmail>beata.oledzka@lonza.com</RequestorEmail>
+    <RequestorPhone>00 48 22 639 35 16</RequestorPhone>
+    <ItemID>SP024024</ItemID>
+    <ItemNumber>194596</ItemNumber>
+    <ItemName>BARDAC™ 22</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>0.25L</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>US</CMCWarehouse>
+    <ClientOrderID>S-24531</ClientOrderID>
+    <CustOrderID>S-24531</CustOrderID>
+    <CompanyName>Chem Co</CompanyName>
+    <FirstName>Vasic</FirstName>
+    <LastName>Perica</LastName>
+    <Email>chemcovinahem@gmail.com</Email>
+    <Phone>+ 381 63 470 165</Phone>
+    <Street>27 marta 19/3</Street>
+    <Street2></Street2>
+    <City>Kragujevac</City>
+    <State></State>
+    <Zip>34000</Zip>
+    <Country>RS  </Country>
+    <EndUse>Hygiene and PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Beata Oledzka</RequestorName>
+    <RequestorEmail>beata.oledzka@lonza.com</RequestorEmail>
+    <RequestorPhone>00 48 22 639 35 16</RequestorPhone>
+    <ItemID>SP024028</ItemID>
+    <ItemNumber>1006783</ItemNumber>
+    <ItemName>BARQUAT 4280-Z</ItemName>
+    <Quantity>1.0</Quantity>
+    <Size>8OZ</Size>
+  </order>
+</Orders>

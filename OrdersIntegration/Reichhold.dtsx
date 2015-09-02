@@ -12,22 +12,11 @@
   DTS:MaxErrorCount="3"
   DTS:ObjectName="Reichhold"
   DTS:PackageType="5"
-  DTS:VersionBuild="205"
-  DTS:VersionGUID="{60548F39-D511-489C-9A08-09ACAE4597EF}">
+  DTS:VersionBuild="210"
+  DTS:VersionGUID="{09CBBC8C-0F24-474E-8BC1-0967D5E18D51}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[Alerts Rackspace]"
-      DTS:CreationName="SMTP"
-      DTS:Description="Alerts Email Connection"
-      DTS:DTSID="{9EBAFD17-4A74-4225-B4B8-7142BE6875C5}"
-      DTS:ObjectName="Alerts Rackspace">
-      <DTS:ObjectData>
-        <SmtpConnectionManager
-          ConnectionString="SmtpServer=smtp.emailsrvr.com;UseWindowsAuthentication=False;EnableSsl=False;" />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Archive]"
       DTS:CreationName="FILE"
@@ -72,7 +61,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAy2HabaZtjsGE1a+408oCKAAAAAASAAACgAAAAEAAAAKDxfnMONvXXULLI0HDGyA0YAAAAaZIBKwKJgAOFnUWmhYY6SADa7Ye4qqxIFAAAAObMdg3PhBdYnfFxMi/P97z6T0VO</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAzcSblSMvjx0+P3HhUh4tdAAAAAASAAACgAAAAEAAAAEWfuYwDmuZ6O4KabWZ+rb4YAAAADctfUlOp305Czm5UL4EE/TI1l7RkBZY9FAAAAHiK5KkPSaC1uDEOpCUPlMGYiO0F</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -84,17 +73,6 @@
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectionString="C:\Users\Administrator.CMCADD1\Desktop\OrdersIntegration\Configs\ReichholdImport.xsl" />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[Imported]"
-      DTS:CreationName="FILE"
-      DTS:DTSID="{FD4207FF-BDC7-41E3-B6D1-063D406AAB1E}"
-      DTS:ObjectName="Imported">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:FileUsageType="2"
-          DTS:ConnectionString="C:\Users\Administrator.CMCADD1\Desktop\OrdersIntegration\Files\Elementis\Imported" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -117,7 +95,7 @@
           ConnectionString="SmtpServer=smtp.emailsrvr.com;UserName=alerts@chemicalmarketing.com;Port=25;EnableSsl=False;Timeout=10000">
           <Password
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABvDuJXQ0h1xiX1eYKdOfd1AAAAAASAAACgAAAAEAAAAEKfUTaycZj0mKgYMe+J8joYAAAAwQN/qzSolgFzNPB29E/YVlzitkqqGWUEFAAAAFoxt2irMsDMcEQW1VS1MYt8DYaU</Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACReGxuiDiEFFs4n1X2iMAhAAAAAASAAACgAAAAEAAAAJTvLNyBtuJAgTtevu+pUFAYAAAAx+CX2cYo21KdjMKdJtGL+pYv1wckzDAbFAAAAOSAFhThLSSYv2tl21E5f4Ko7yE1</Password>
         </ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -152,17 +130,6 @@
         DTS:Name="ConnectionString">@[User::varFileName]</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[TransformXML]"
-      DTS:CreationName="FILE"
-      DTS:DTSID="{3BD0C11A-B4EF-4922-A369-6CBE332E2BBC}"
-      DTS:ObjectName="TransformXML">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:FileUsageType="2"
-          DTS:ConnectionString="C:\ElemFlatXML_20150825_1648.xml" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -269,7 +236,7 @@
           SmtpConnection="SMTP Alerts"
           IsHtmlEmail="True"
           DefaultStyle="&#xA;&lt;style type=&quot;text/css&quot;&gt;&#xA;body,div,p,span,td,th,table {&#xA; font-family: Helvetica, Arial, sans-serif;&#xA; font-size: 10pt; &#xA;}&#xA;h1,h2,h3,h4,h5{&#xA;font-family: Helvetica, Arial, sans-serif;&#xA;}&#xA;&#xA;table { &#xA; border-collapse: &#xA; collapse; border-spacing: 0; &#xA;}&#xA;&#xA;tr.odd    {background-color: #cccccc}&#xA;tr.even   {background-color: #fafafa}&#xA;td, th { border: 1px solid #bbb;padding: 5 5 5 5} &#xA;th { background: #F3F3F3;  font-weight: bold;}&#xA;&lt;/style&gt;&#xA;&#xA;"
-          Subject="Reichhold Job Finished on"
+          Subject="Reichhold Job Completed"
           From="alerts@chemicalmarketing.com"
           To="ifeanyiigbo@chemicalmarketing.com"
           Cc=""
@@ -277,7 +244,7 @@
           Attachments="C:\Users\Administrator.CMCADD1\Desktop\OrdersIntegration\Errors\ProblemRows.xlsx"
           EmailPriority="Low"
           MessageSourceType="Direct"
-          MessageDirectValue="&lt;p&gt;Congratulations!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Job Started:&lt;/b&gt; at {{System::ContainerStartTime}} on {{System::MachineName}}&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Reichhold XML ETL job is complete.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Please review attached report just in case you need to fix problem rows.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have a fun day!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;- Phoenix&lt;/b&gt;&lt;/p&gt;&#xA;"
+          MessageDirectValue="&lt;p&gt;Congratulations!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Job Started:&lt;/b&gt; at {{System::ContainerStartTime}} on {{{System::ContainerStartTime}}{System::MachineName}}&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Reichhold XML ETL job is complete.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Please review attached report just in case you need to fix problem rows.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have a fun day!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;- Phoenix&lt;/b&gt;&lt;/p&gt;&#xA;"
           MessageFileConnection=""
           MessageVariable=""
           LoggingMode="Normal" />
@@ -2542,7 +2509,7 @@
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="242,202"
+          PanelSize="242,208"
           Size="242,251"
           Id="Package\Clear Transform Folder"
           TopLeft="704.087301587302,559.920634920635" />
@@ -2655,7 +2622,7 @@
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="231,194"
+          PanelSize="242,208"
           Size="242,251"
           Id="Package\Foreach File in Transform Folder"
           TopLeft="72.4603174603174,562.015873015873" />
@@ -2666,7 +2633,7 @@
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="223,208"
+          PanelSize="242,208"
           Size="242,251"
           Id="Package\Loop Through Transformed XML Files"
           TopLeft="387.527777777778,560.825396825397" />
@@ -2759,12 +2726,12 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <AnnotationLayout
-          Text="Package Sequence&#xA;1. User drops file in Source Folder&#xA;2. Files in Source Folder are copied to Transform Folder&#xA;3. Files in Source Folder are moved to Archive Folder&#xA;4. Files in Transform folder are transformed using XSD and XSLT to format nested raw xml&#xA;5. Files in Transform folder are mounted in preparation for parsing to tblOrderImport on database&#xA;    5a. Validations: Fail: Corrupt files moved to Corrupt Folder&#xA;          5ai. Send Mail Task for error notfication&#xA;    5b: Validations: Success: Data writes to tblOrderImport&#xA;6. Files in Transform folder are moved to Complete folder&#xA;7. Email sent upon job completion&#xA;&#xA;Notes: &#xA; - Files from source will overwrite files in destination if it already exists by filename.&#xA; - Empty OnError event handler for &quot;Format and Transform XML&quot; set system var Propagate=false&#xA;&#xA;Todo:&#xA;- Feed Source folder from ftp server where all documents will be deposited. FTP folder will be monitored by a listener"
+          Text="Package Sequence&#xA;1. User drops file in Source Folder&#xA;2. Files in Source Folder are copied to Transform Folder&#xA;3. Files in Source Folder are moved to Archive Folder&#xA;4. Files in Transform folder are transformed using XSD and XSLT to format nested raw xml&#xA;5. Files in Transform folder are mounted in preparation for parsing to tblOrderImport on database&#xA;    5a. Validations: Fail: Corrupt files moved to Corrupt Folder&#xA;          5ai. Send Mail Task for error notfication&#xA;    5b: Validations: Success: Data writes to tblOrderImport&#xA;          5bi. Errors and Truncation writes are moved to ProblemRows.xlsx in Errors Folder&#xA;6. Files in Transform folder are moved to Complete folder&#xA;7. Email sent upon job completion&#xA;&#xA;Notes: &#xA; - Files from source will overwrite files in destination if it already exists by filename.&#xA; - Empty OnError event handler for &quot;Format and Transform XML&quot; set system var Propagate=false&#xA;&#xA;Todo:&#xA;- Feed Source folder from ftp server where all documents will be deposited. FTP folder will be monitored by a listener"
           ParentId="Package"
           FontInfo="{assembly:Null}"
-          Size="601,265"
+          Size="601,278"
           Id="4e72a3c8-3c35-4cb4-b5f0-25591a2cb8bd"
-          TopLeft="356.888888888889,280.444444444444" />
+          TopLeft="353.888888888889,236.444444444444" />
       </GraphLayout>
     </LayoutInfo>
   </Package>

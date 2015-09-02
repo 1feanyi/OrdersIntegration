@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>US</CMCWarehouse>
+    <ClientOrderID>S-24589</ClientOrderID>
+    <CustOrderID>S-24589</CustOrderID>
+    <CompanyName>Quimica Anders S.A.C.</CompanyName>
+    <FirstName>Gabriela</FirstName>
+    <LastName>Anavitarte</LastName>
+    <Email>gabriela.anavitarte@qanders.com</Email>
+    <Phone>(511) 6158600 ext. 614</Phone>
+    <Street>Los Hilanderos 109 Urb. Vulcano</Street>
+    <Street2></Street2>
+    <City>Lima</City>
+    <State></State>
+    <Zip>Lima 03</Zip>
+    <Country>PE  </Country>
+    <EndUse>Hygiene and PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Gerardo Blanco</RequestorName>
+    <RequestorEmail>gerardo.blanco@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024073</ItemID>
+    <ItemNumber>1006957</ItemNumber>
+    <ItemName>AMPHOTERGE K-2</ItemName>
+    <Quantity>3.0</Quantity>
+    <Size>8OZ</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>US</CMCWarehouse>
+    <ClientOrderID>S-24589</ClientOrderID>
+    <CustOrderID>S-24589</CustOrderID>
+    <CompanyName>Quimica Anders S.A.C.</CompanyName>
+    <FirstName>Gabriela</FirstName>
+    <LastName>Anavitarte</LastName>
+    <Email>gabriela.anavitarte@qanders.com</Email>
+    <Phone>(511) 6158600 ext. 614</Phone>
+    <Street>Los Hilanderos 109 Urb. Vulcano</Street>
+    <Street2></Street2>
+    <City>Lima</City>
+    <State></State>
+    <Zip>Lima 03</Zip>
+    <Country>PE  </Country>
+    <EndUse>Hygiene and PC</EndUse>
+    <Comments></Comments>
+    <RequestorName>Gerardo Blanco</RequestorName>
+    <RequestorEmail>gerardo.blanco@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024074</ItemID>
+    <ItemNumber>1006967</ItemNumber>
+    <ItemName>AMPHOTERGE W-2</ItemName>
+    <Quantity>3.0</Quantity>
+    <Size>8OZ</Size>
+  </order>
+  <order>
+    <ClientName>Lonza</ClientName>
+    <CMCWarehouse>EMEA</CMCWarehouse>
+    <ClientOrderID>S-24582</ClientOrderID>
+    <CustOrderID>S-24582</CustOrderID>
+    <CompanyName>3M Company</CompanyName>
+    <FirstName>Naimul</FirstName>
+    <LastName>Karim</LastName>
+    <Email>nkarim@mmm.com</Email>
+    <Phone>(651) 737-1976</Phone>
+    <Street>3M Critical and Chronic Care Solutions Division</Street>
+    <Street2>3M Center, 270-3N-03</Street2>
+    <City>St Paul</City>
+    <State>Minnisota</State>
+    <Zip>55144-1000</Zip>
+    <Country>US  </Country>
+    <EndUse>HY</EndUse>
+    <Comments>Please specify that you wish to have batch 14GR099214</Comments>
+    <RequestorName>Jonathan Winfindale</RequestorName>
+    <RequestorEmail>jonathan.winfindale@lonza.com</RequestorEmail>
+    <RequestorPhone></RequestorPhone>
+    <ItemID>SP024064</ItemID>
+    <ItemNumber>05149</ItemNumber>
+    <ItemName>COSMOCIL PG</ItemName>
+    <Quantity>16.0</Quantity>
+    <Size>0.1L</Size>
+  </order>
+</Orders>

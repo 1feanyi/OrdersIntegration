@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Orders">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="order">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="ClientName" type="xs:string" />
+              <xs:element minOccurs="0" name="CMCWarehouse" type="xs:string" />
+              <xs:element minOccurs="0" name="ClientOrderID" type="xs:string" />
+              <xs:element minOccurs="0" name="CustOrderID" type="xs:string" />
+              <xs:element minOccurs="0" name="CompanyName" type="xs:string" />
+              <xs:element minOccurs="0" name="FirstName" type="xs:string" />
+              <xs:element minOccurs="0" name="LastName" type="xs:string" />
+              <xs:element minOccurs="0" name="Email" type="xs:string" />
+              <xs:element minOccurs="0" name="Phone" type="xs:string" />
+              <xs:element minOccurs="0" name="Street" type="xs:string" />
+              <xs:element minOccurs="0" name="Street2" type="xs:string" />
+              <xs:element minOccurs="0" name="City" type="xs:string" />
+              <xs:element minOccurs="0" name="State" type="xs:string" />
+              <xs:element minOccurs="0" name="Zip" type="xs:string" />
+              <xs:element minOccurs="0" name="Country" type="xs:string" />
+              <xs:element minOccurs="0" name="EndUse" type="xs:string" />
+              <xs:element minOccurs="0" name="Comments" type="xs:string" />
+              <xs:element minOccurs="0" name="RequestorName" type="xs:string" />
+              <xs:element minOccurs="0" name="RequestorEmail" type="xs:string" />
+              <xs:element minOccurs="0" name="RequestorPhone" type="xs:string" />
+              <xs:element minOccurs="0" name="ItemID" type="xs:string" />
+              <xs:element minOccurs="0" name="ItemNumber" type="xs:string" />
+              <xs:element minOccurs="0" name="ItemName" type="xs:string" />
+              <xs:element minOccurs="0" name="Quantity" type="xs:string" />
+              <xs:element minOccurs="0" name="Size" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

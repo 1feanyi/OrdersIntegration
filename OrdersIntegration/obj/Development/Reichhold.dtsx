@@ -12,22 +12,11 @@
   DTS:MaxErrorCount="3"
   DTS:ObjectName="Reichhold"
   DTS:PackageType="5"
-  DTS:VersionBuild="204"
-  DTS:VersionGUID="{4E4BDC57-DF57-41E9-9C4E-3F6703E8A784}">
+  DTS:VersionBuild="210"
+  DTS:VersionGUID="{09CBBC8C-0F24-474E-8BC1-0967D5E18D51}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[Alerts Rackspace]"
-      DTS:CreationName="SMTP"
-      DTS:Description="Alerts Email Connection"
-      DTS:DTSID="{9EBAFD17-4A74-4225-B4B8-7142BE6875C5}"
-      DTS:ObjectName="Alerts Rackspace">
-      <DTS:ObjectData>
-        <SmtpConnectionManager
-          ConnectionString="SmtpServer=smtp.emailsrvr.com;UseWindowsAuthentication=False;EnableSsl=False;" />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Archive]"
       DTS:CreationName="FILE"
@@ -72,7 +61,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABAYnJun99VWBWVPhtzsnV9AAAAAASAAACgAAAAEAAAAC/UUxoedP0jgfdd8GAtPwoYAAAAmbvjlamzwc5tow0ZUTG1fzajiP89R520FAAAAI1cDrUAPsRBpjjaFeyitQRZnJAq</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACiQENVQ5QmCzDwivXXDd1UAAAAAASAAACgAAAAEAAAAPz9H+739BpUEsCMT9Om6dIYAAAAPL430DFcfINGXAuMShw5EbtxTchJer8UFAAAACIn3aApPrS4CLDpTcixbBWdvWVK</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -84,17 +73,6 @@
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectionString="C:\Users\Administrator.CMCADD1\Desktop\OrdersIntegration\Configs\ReichholdImport.xsl" />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[Imported]"
-      DTS:CreationName="FILE"
-      DTS:DTSID="{FD4207FF-BDC7-41E3-B6D1-063D406AAB1E}"
-      DTS:ObjectName="Imported">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:FileUsageType="2"
-          DTS:ConnectionString="C:\Users\Administrator.CMCADD1\Desktop\OrdersIntegration\Files\Elementis\Imported" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -117,7 +95,7 @@
           ConnectionString="SmtpServer=smtp.emailsrvr.com;UserName=alerts@chemicalmarketing.com;Port=25;EnableSsl=False;Timeout=10000">
           <Password
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAgIRb0jagtRorlxrZzYzBYAAAAAASAAACgAAAAEAAAADu/oxownHi3WUeUkukZYpwYAAAAQA3huCY+ktdc7uFF3IJrmDNQ2Ytv0yVJFAAAADpZivDrTWQO49h1CcXQHJbstXLL</Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFA1BlBdob0GO1bDuiIOeBQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACFeMeEiSVITv6iZmWYHCvVAAAAAASAAACgAAAAEAAAAMGX79+eyeMAqv+uh7MS5fIYAAAAMvTRScH2Nw4z+aSqQfAn3/7/SujUlu/0FAAAAIAHPQ3uqnn0MnYoykRCeF5ssi39</Password>
         </ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -152,17 +130,6 @@
         DTS:Name="ConnectionString">@[User::varFileName]</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[TransformXML]"
-      DTS:CreationName="FILE"
-      DTS:DTSID="{3BD0C11A-B4EF-4922-A369-6CBE332E2BBC}"
-      DTS:ObjectName="TransformXML">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:FileUsageType="2"
-          DTS:ConnectionString="C:\ElemFlatXML_20150825_1648.xml" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -269,7 +236,7 @@
           SmtpConnection="SMTP Alerts"
           IsHtmlEmail="True"
           DefaultStyle="&#xA;&lt;style type=&quot;text/css&quot;&gt;&#xA;body,div,p,span,td,th,table {&#xA; font-family: Helvetica, Arial, sans-serif;&#xA; font-size: 10pt; &#xA;}&#xA;h1,h2,h3,h4,h5{&#xA;font-family: Helvetica, Arial, sans-serif;&#xA;}&#xA;&#xA;table { &#xA; border-collapse: &#xA; collapse; border-spacing: 0; &#xA;}&#xA;&#xA;tr.odd    {background-color: #cccccc}&#xA;tr.even   {background-color: #fafafa}&#xA;td, th { border: 1px solid #bbb;padding: 5 5 5 5} &#xA;th { background: #F3F3F3;  font-weight: bold;}&#xA;&lt;/style&gt;&#xA;&#xA;"
-          Subject="Reichhold Job Finished on"
+          Subject="Reichhold Job Completed"
           From="alerts@chemicalmarketing.com"
           To="ifeanyiigbo@chemicalmarketing.com"
           Cc=""
@@ -277,7 +244,7 @@
           Attachments="C:\Users\Administrator.CMCADD1\Desktop\OrdersIntegration\Errors\ProblemRows.xlsx"
           EmailPriority="Low"
           MessageSourceType="Direct"
-          MessageDirectValue="&lt;p&gt;Congratulations!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Job Started:&lt;/b&gt; at {{System::ContainerStartTime}} on {{System::MachineName}}&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Reichhold XML ETL job is complete.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Please review attached report just in case you need to fix prbolem rows.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have a fun day!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;- Phoenix&lt;/b&gt;&lt;/p&gt;&#xA;"
+          MessageDirectValue="&lt;p&gt;Congratulations!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Job Started:&lt;/b&gt; at {{System::ContainerStartTime}} on {{{System::ContainerStartTime}}{System::MachineName}}&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Reichhold XML ETL job is complete.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Please review attached report just in case you need to fix problem rows.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have a fun day!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;- Phoenix&lt;/b&gt;&lt;/p&gt;&#xA;"
           MessageFileConnection=""
           MessageVariable=""
           LoggingMode="Normal" />
@@ -495,7 +462,7 @@
               Attachments=""
               EmailPriority="Low"
               MessageSourceType="Direct"
-              MessageDirectValue="&lt;h3&gt;Dammit! Don't Panic!&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Issue:&lt;/b&gt; Corrupt file during xml transformation.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Possible Cause:&lt;/b&gt;  A file that does not match the Reichhold XML-XSL mapping found its way into the Transform Folder.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;File Location: &quot;..\Reichhold\Corrupt\..&quot; on DEV_SERV&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have fun. Keep Calm and Carry On...&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;- Phoenix&lt;/b&gt;&lt;/p&gt;&#xA;"
+              MessageDirectValue="&lt;h3&gt;Dammit! Don't Panic!&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Issue:&lt;/b&gt; Corrupt file during xml transformation.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Possible Cause:&lt;/b&gt;  A file that does not match the Reichhold XML-XSL mapping found its way into the Transform Folder.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;File Location:&lt;/b&gt; &quot;..\Reichhold\Corrupt\..&quot; on DEV_SERV&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Have fun. Keep Calm and Carry On...&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;b&gt;- Phoenix&lt;/b&gt;&lt;/p&gt;&#xA;"
               MessageFileConnection=""
               MessageVariable=""
               LoggingMode="Normal" />
@@ -2542,14 +2509,14 @@
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="242,202"
-          Size="242,245"
+          PanelSize="242,208"
+          Size="242,251"
           Id="Package\Clear Transform Folder"
           TopLeft="704.087301587302,559.920634920635" />
         <NodeLayout
-          Size="168,42"
+          Size="242,42"
           Id="Package\Finished Job Email"
-          TopLeft="741.087301587302,851" />
+          TopLeft="704.087301587302,851" />
         <NodeLayout
           Size="191,42"
           Id="Package\Foreach File in Source Folder\Sequence Container\Copy File To Transform"
@@ -2655,8 +2622,8 @@
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="242,202"
-          Size="242,245"
+          PanelSize="242,208"
+          Size="242,251"
           Id="Package\Foreach File in Transform Folder"
           TopLeft="72.4603174603174,562.015873015873" />
         <NodeLayout
@@ -2667,7 +2634,7 @@
           HeaderHeight="43"
           IsExpanded="True"
           PanelSize="242,208"
-          Size="279,251"
+          Size="242,251"
           Id="Package\Loop Through Transformed XML Files"
           TopLeft="387.527777777778,560.825396825397" />
         <EdgeLayout
@@ -2694,7 +2661,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="314.460317460317,685.420634920635">
+          TopLeft="314.460317460317,686.920634920635">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -2716,18 +2683,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="666.527777777778,684.373015873016">
+          TopLeft="629.527777777778,685.873015873016">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="37.559523809524,0"
+              EndConnector="74.559523809524,0"
               Start="0,0"
-              End="30.059523809524,0">
+              End="67.059523809524,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="30.059523809524,0" />
+                    End="67.059523809524,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -2738,18 +2705,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="825.087301587302,804.920634920635">
+          TopLeft="825.087301587302,810.920634920635">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,46.0793650793649"
+              EndConnector="0,40.0793650793649"
               Start="0,0"
-              End="0,38.5793650793649">
+              End="0,32.5793650793649">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,38.5793650793649" />
+                    End="0,32.5793650793649" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -2759,12 +2726,12 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <AnnotationLayout
-          Text="Package Sequence&#xA;1. User drops file in Source Folder&#xA;2. Files in Source Folder are copied to Transform Folder&#xA;3. Files in Source Folder are moved to Archive Folder&#xA;4. Files in Transform folder are transformed using XSD and XSLT to format nested raw xml&#xA;5. Files in Transform folder are mounted in preparation for parsing to tblOrderImport on database&#xA;    5a. Validations: Fail: Corrupt files moved to Corrupt Folder&#xA;          5ai. Send Mail Task for error notfication&#xA;    5b: Validations: Success: Data writes to tblOrderImport&#xA;6. Files in Transform folder are moved to Complete folder&#xA;7. Email sent upon job completion&#xA;&#xA;Notes: &#xA; - Files from source will overwrite files in destination if it already exists by filename.&#xA; - Empty OnError event handler for &quot;Format and Transform XML&quot; set system var Propagate=false&#xA;&#xA;Todo:&#xA;- Feed Source folder from ftp server where all documents will be deposited. FTP folder will be monitored by a listener"
+          Text="Package Sequence&#xA;1. User drops file in Source Folder&#xA;2. Files in Source Folder are copied to Transform Folder&#xA;3. Files in Source Folder are moved to Archive Folder&#xA;4. Files in Transform folder are transformed using XSD and XSLT to format nested raw xml&#xA;5. Files in Transform folder are mounted in preparation for parsing to tblOrderImport on database&#xA;    5a. Validations: Fail: Corrupt files moved to Corrupt Folder&#xA;          5ai. Send Mail Task for error notfication&#xA;    5b: Validations: Success: Data writes to tblOrderImport&#xA;          5bi. Errors and Truncation writes are moved to ProblemRows.xlsx in Errors Folder&#xA;6. Files in Transform folder are moved to Complete folder&#xA;7. Email sent upon job completion&#xA;&#xA;Notes: &#xA; - Files from source will overwrite files in destination if it already exists by filename.&#xA; - Empty OnError event handler for &quot;Format and Transform XML&quot; set system var Propagate=false&#xA;&#xA;Todo:&#xA;- Feed Source folder from ftp server where all documents will be deposited. FTP folder will be monitored by a listener"
           ParentId="Package"
           FontInfo="{assembly:Null}"
-          Size="601,265"
+          Size="601,278"
           Id="4e72a3c8-3c35-4cb4-b5f0-25591a2cb8bd"
-          TopLeft="356.888888888889,280.444444444444" />
+          TopLeft="353.888888888889,236.444444444444" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -2797,9 +2764,9 @@
           Id="Package\Loop Through Transformed XML Files\Parse XML Data To DB\Transformed XML Source"
           TopLeft="335,186" />
         <NodeLayout
-          Size="152,42"
+          Size="199,42"
           Id="Package\Loop Through Transformed XML Files\Parse XML Data To DB\tblOrderImport"
-          TopLeft="337,318" />
+          TopLeft="335,318" />
         <EdgeLayout
           Id="Package\Loop Through Transformed XML Files\Parse XML Data To DB.Paths[order Error Output]"
           TopLeft="534,207">
@@ -2830,34 +2797,20 @@
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-21.5,90"
+              EndConnector="0,90"
               Start="0,0"
-              End="-21.5,82.5">
+              End="0,82.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,41" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,41"
-                    Point2="0,45"
-                    Point3="-4,45" />
-                  <mssgle:LineSegment
-                    End="-17.5,45" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-17.5,45"
-                    Point2="-21.5,45"
-                    Point3="-21.5,49" />
-                  <mssgle:LineSegment
-                    End="-21.5,82.5" />
+                    End="0,82.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
